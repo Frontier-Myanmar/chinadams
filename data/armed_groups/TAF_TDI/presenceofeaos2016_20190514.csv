@@ -1,0 +1,187 @@
+SR_PCODE,SR_NAME,TS_PCODE,TS_NAME,EAO_ACRONYM,EAO_NAME
+MMR001,Kachin,MMR001001,Myitkyina,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001002,Waingmaw,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001003,Injangyang,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001004,Tanai,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001005,Chipwi,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001006,Tsawlaw,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001007,Mohnyin,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001008,Mogaung,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001009,Hpakant,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001010,Bhamo,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001011,Shwegu,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001012,Momauk,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001013,Mansi,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001014,Puta-O,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001015,Sumprabum,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR001,Kachin,MMR001016,Machanbaw,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR002,Kayah,MMR002001,Loikaw,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002002,Demoso,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002003,Hpruso,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002004,Shadaw,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002005,Bawlakhe,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002006,Hpasawng,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR002,Kayah,MMR002007,Mese,KNPP/KA,Karenni National Progressive Party/Karenni Army
+MMR003,Kayin,MMR003001,Hpa-An,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003001,Hpa-An,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR003,Kayin,MMR003002,Hlaingbwe,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003002,Hlaingbwe,DKBA,Democratic Karen Benevolent Army
+MMR003,Kayin,MMR003002,Hlaingbwe,KPC,KNU/KNLA Peace Council
+MMR003,Kayin,MMR003003,Hpapun,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003003,Hpapun,ABSDF,All Burma Students Democratic Front
+MMR003,Kayin,MMR003004,Thandaunggyi,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003004,Thandaunggyi,ABSDF,All Burma Students Democratic Front
+MMR003,Kayin,MMR003005,Myawaddy,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003005,Myawaddy,DKBA,Democratic Karen Benevolent Army
+MMR003,Kayin,MMR003006,Kawkareik,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003006,Kawkareik,DKBA,Democratic Karen Benevolent Army
+MMR003,Kayin,MMR003006,Kawkareik,KPC,KNU/KNLA Peace Council
+MMR003,Kayin,MMR003006,Kawkareik,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR003,Kayin,MMR003007,Kyainseikgyi,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR003,Kayin,MMR003007,Kyainseikgyi,DKBA,Democratic Karen Benevolent Army
+MMR003,Kayin,MMR003007,Kyainseikgyi,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR004,Chin,MMR004003,Thantlang,CNF/CNA,Chin National Front/Chin National Army
+MMR004,Chin,MMR004004,Tedim,CNF/CNA,Chin National Front/Chin National Army
+MMR004,Chin,MMR004007,Matupi,CNF/CNA,Chin National Front/Chin National Army
+MMR004,Chin,MMR004009,Paletwa,AA,Arakan Army
+MMR005,Sagaing,MMR005033,Hkamti,NSCN-K,National Socialist Council of Nagaland-Khaplang
+MMR005,Sagaing,MMR005035,Lay Shi,NSCN-K,National Socialist Council of Nagaland-Khaplang
+MMR005,Sagaing,MMR005036,Lahe,NSCN-K,National Socialist Council of Nagaland-Khaplang
+MMR005,Sagaing,MMR005037,Nanyun,NSCN-K,National Socialist Council of Nagaland-Khaplang
+MMR006,Tanintharyi,MMR006001,Dawei,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006001,Dawei,ABSDF,All Burma Students Democratic Front
+MMR006,Tanintharyi,MMR006002,Launglon,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006002,Launglon,ABSDF,All Burma Students Democratic Front
+MMR006,Tanintharyi,MMR006003,Thayetchaung,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006004,Yebyu,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006004,Yebyu,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR006,Tanintharyi,MMR006005,Myeik,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR006,Tanintharyi,MMR006006,Kyunsu,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006007,Palaw,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006008,Tanintharyi,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006009,Kawthoung,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR006,Tanintharyi,MMR006010,Bokpyin,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR111,Bago,MMR007005,Nyaunglebin,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR111,Bago,MMR007005,Nyaunglebin,ABSDF,All Burma Students Democratic Front
+MMR111,Bago,MMR007008,Shwegyin,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR111,Bago,MMR007008,Shwegyin,ABSDF,All Burma Students Democratic Front
+MMR111,Bago,MMR007009,Taungoo,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR111,Bago,MMR007011,Kyaukkyi,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR111,Bago,MMR007011,Kyaukkyi,ABSDF,All Burma Students Democratic Front
+MMR111,Bago,MMR007014,Htantabin,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR010,Mandalay,MMR010011,Mogoke,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR011,Mon,MMR011001,Mawlamyine,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011002,Kyaikmaraw,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011002,Kyaikmaraw,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR011,Mon,MMR011003,Chaungzon,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011004,Thanbyuzayat,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011004,Thanbyuzayat,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR011,Mon,MMR011005,Mudon,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011006,Ye,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011006,Ye,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR011,Mon,MMR011007,Thaton,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011007,Thaton,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR011,Mon,MMR011008,Paung,NMSP/MNLA,New Mon State Party/Mon National Liberation Army
+MMR011,Mon,MMR011009,Kyaikto,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR011,Mon,MMR011010,Bilin,KNU/KNLA,Karen National Union/Karen National Liberation Army
+MMR012,Rakhine,MMR012003,Mrauk-U,AA,Arakan Army
+MMR012,Rakhine,MMR012004,Kyauktaw,ALP/ALA,Arakan Liberation Party/Arakan Liberation Army
+MMR012,Rakhine,MMR012004,Kyauktaw,AA,Arakan Army
+MMR012,Rakhine,MMR012005,Minbya,AA,Arakan Army
+MMR012,Rakhine,MMR012009,Maungdaw,ALP/ALA,Arakan Liberation Party/Arakan Liberation Army
+MMR222,Shan,MMR014001,Taunggyi,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014003,Hopong,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014003,Hopong,PNLO/PNLA,Pa-Oh National Liberation Organization/Pa-Oh National Liberation Army
+MMR222,Shan,MMR014003,Hopong,UWSA,United Wa State Army
+MMR222,Shan,MMR014004,Hsihseng,PNLO/PNLA,Pa-Oh National Liberation Organization/Pa-Oh National Liberation Army
+MMR222,Shan,MMR014004,Hsihseng,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014008,Lawksawk,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014011,Loilen,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014012,Laihka,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014012,Laihka,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR014013,Nansang,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014014,Kunhing,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014015,Kyethi,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR014016,Mongkaing,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014016,Mongkaing,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR014017,Monghsu,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR014017,Monghsu,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014018,Langkho,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014019,Mongnai,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014020,Mawkmai,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR014020,Mawkmai,UWSA,United Wa State Army
+MMR222,Shan,MMR014021,Mongpan,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR015001,Lashio,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015001,Lashio,MNDAA,Myanmar National Democratic Alliance Army
+MMR222,Shan,MMR015001,Lashio,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015002,Hseni,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015002,Hseni,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015002,Hseni,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015003,Mongyai,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015004,Tangyan,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR015004,Tangyan,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015005,Pangsang,UWSA,United Wa State Army
+MMR222,Shan,MMR015006,Narphan,UWSA,United Wa State Army
+MMR222,Shan,MMR015007,Pangwaun,UWSA,United Wa State Army
+MMR222,Shan,MMR015008,Mongmao,UWSA,United Wa State Army
+MMR222,Shan,MMR015009,Muse,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015009,Muse,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015009,Muse,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015010,Namhkan,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015010,Namhkan,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015010,Namhkan,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015010,Namhkan,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR015011,Kutkai,MNDAA,Myanmar National Democratic Alliance Army
+MMR222,Shan,MMR015011,Kutkai,ABSDF,All Burma Students Democratic Front
+MMR222,Shan,MMR015011,Kutkai,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015011,Kutkai,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015012,Kyaukme,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR015012,Kyaukme,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015012,Kyaukme,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015014,Hsipaw,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR015014,Hsipaw,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015014,Hsipaw,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015015,Namtu,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015015,Namtu,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015015,Namtu,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015016,Namhsan,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015016,Namhsan,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015017,Mongmit,PNLO/PNLA,Pa-Oh National Liberation Organization/Pa-Oh National Liberation Army
+MMR222,Shan,MMR015017,Mongmit,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015017,Mongmit,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015018,Mabein,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015018,Mabein,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015018,Mabein,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015019,Manton,LDU,Lahu Democratic Union
+MMR222,Shan,MMR015019,Manton,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015019,Manton,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015019,Manton,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR015020,Kunlong,SSPP/SSA-N,Shan State Progress Party/Shan State Army-North
+MMR222,Shan,MMR015020,Kunlong,KIO/KIA,Kachin Independence Organization/Kachin Independence Army
+MMR222,Shan,MMR015020,Kunlong,MNDAA,Myanmar National Democratic Alliance Army
+MMR222,Shan,MMR015020,Kunlong,PSLF/TNLA,Palaung State Liberation Front/Ta'ang National Liberation Army
+MMR222,Shan,MMR015021,Hopang,UWSA,United Wa State Army
+MMR222,Shan,MMR015022,Laukkaing,MNDAA,Myanmar National Democratic Alliance Army
+MMR222,Shan,MMR015023,Konkyan,MNDAA,Myanmar National Democratic Alliance Army
+MMR222,Shan,MMR015024,Matman,UWSA,United Wa State Army
+MMR222,Shan,MMR015024,Matman,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016001,Kengtung,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016001,Kengtung,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016002,Mongkhet,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016003,Mongyang,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016005,Mongla,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016005,Mongla,UWSA,United Wa State Army
+MMR222,Shan,MMR016006,Monghsat,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016006,Monghsat,WNO/WNA,Wa National Organization/Wa National Army
+MMR222,Shan,MMR016006,Monghsat,UWSA,United Wa State Army
+MMR222,Shan,MMR016007,Mongping,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016008,Mongton,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016008,Mongton,WNO/WNA,Wa National Organization/Wa National Army
+MMR222,Shan,MMR016008,Mongton,UWSA,United Wa State Army
+MMR222,Shan,MMR016009,Tachileik,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016009,Tachileik,UWSA,United Wa State Army
+MMR222,Shan,MMR016010,Monghpyak,NDAA ESS,National Democratic Alliance Army/Eastern Shan State
+MMR222,Shan,MMR016010,Monghpyak,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016011,Mongyawng,RCSS/SSA-S,Restoration Council of Shan State/Shan State Army-South
+MMR222,Shan,MMR016011,Mongyawng,UWSA,United Wa State Army
+MMR222,Shan,MMR016011,Mongyawng,NDAA ESS,National Democratic Alliance Army/Eastern Shan State

@@ -1,0 +1,22 @@
+Number,Name,Type,Paris club member,Value of debt,Amount withdrawn,Amount repaid,Remaining unpaid
+1,ADB,International Organisations,N/A,"1,420.39",843.443,270.936,572.507
+2,AIF,International Organisations,N/A,20,1.464,0,1.464
+3,IDA,International Organisations,N/A,"3,410.44","1,714.79",517.006,"1,197.79"
+4,IFAD,International Organisations,N/A,76.595,6.269,0,6.269
+5,OPEC,International Organisations,N/A,32.3,23.177,13.199,9.978
+6,Japan,National government,Yes,"6,891.01","2,476.20",0.948,"2,475.26"
+7,Australia,National government,Yes,139.422,139.422,0,139.422
+8,Finland,National government,Yes,3.093,3.093,0,3.093
+9,France,National government,Yes,578.569,578.569,42.269,536.3
+10,Germany,National government,Yes,"1,038.05","1,002.24",207.436,794.802
+11,Italy,National government,Yes,24.796,0,0,0
+12,Netherlands,National government,Yes,9.576,9.576,0,9.576
+13,United Kingdom,National government,Yes,38.227,38.227,0,38.227
+14,AFD,National government,Yes,80.587,0,0,0
+15,China,National government,No,"5,781.03","5,118.35","1,115.93","4,002.42"
+16,India,National government,No,563.898,314.235,110.233,204.002
+17,South Korea,National government,No,558.385,206.333,60.081,146.252
+18,Saudi Arabia,National government,No,8,2.53,1,1.53
+19,Thailand,National government,No,27.906,27.906,6.977,20.929
+20,Serbia,National government,No,70.548,70.548,30.865,39.683
+21,Poland,National government,No,61.99,0.674,0,0.674

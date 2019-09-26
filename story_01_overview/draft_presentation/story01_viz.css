@@ -1,0 +1,62 @@
+
+  h3 {
+    font-size: 1.6rem;
+    line-height: 1.2;
+    font-weight: 800;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+    line-height: 1.2;
+    font-weight: 400;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:  rgb(102, 102, 102);
+  }
+  
+  body .streamgraphexport {
+    background-color: #222222;
+    color: #ffffff;
+  }
+
+  p {
+    font: 11px 'Source Sans Pro'; 
+    color: #222222;
+    background-color:rgba(255,255,255,0.7);
+    padding: 10px;
+  }
+
+  .source {
+    color:rgba(255,255,255,1);
+    background-color: transparent;
+  }
+
+  .source a {
+    color:rgba(255,255,255,1);
+    background-color: transparent;
+  }
+  
+  
+  .axis path, .axis line {
+    fill: none;
+    stroke: #bbb;
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis {
+    font: 11px 'Source Sans Pro';
+    fill: #dddddd;
+  }
+
+  button {
+    position: absolute;
+    right: 50px;
+    top: 10px;
+  }
+
+  .tooltip {
+    font: 11px 'Source Sans Pro';
+     
+  }

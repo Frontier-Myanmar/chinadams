@@ -1,0 +1,105 @@
+,Hydropower Plant,Status,LAT N,LON E,State/Region,District,Township,Village,Basin,Sub-Basin (HP Chapter),Sub-Basin (GIS Maps),River/ Watershed,Developer,Country,Investment by,Installed Capacity (MW),Myanmar Selfuse (MW),Export (MW),Export to,Estimated No. Construction Workers (planned projects),Year_Simplified
+0,Baluchaung 1,Built,19.648,97.287,Kayah,Loikaw,Loikaw,,Thanlwin,Nam Pawn,Baluchaung,Baluchaung,MoEE,Myanmar,Sole Investment ,28.0,28.0,0.0,,,1992.0
+1,Baluchaung 2,Built,19.5569999999999,97.358,Kayah,Loikaw,Loikaw,,Thanlwin,Nam Pawn,Baluchaung,Baluchaung,MoEE,Myanmar,Sole Investment,168.0,168.0,0.0,,,1974.0
+2,Baluchaung 3,Built,19.5459999999999,97.397,Kayah,Loikaw,Loikaw,,Thanlwin,Nam Pawn,Baluchaung,Baluchaung,Future Energy,Myanmar,Local BOT,52.0,52.0,0.0,,,2014.0
+3,Baluchaung (upper),Construction,20.484592,96.781918,Shan,Taunggyi,Pin Laung,Indein,Thanlwin,Nam Pawn,Baluchaung,Baluchaung,NeoEnergy Oasis,Myanmar,Local BOT,30.0,30.0,0.0,,,2019.0
+4,Bawgata,LocMoU,18.255561,96.8484959999999,Bago,Taungoo,Kyauk Gyi,,Sittaung,Bawgata,Bawgata,Bawgata,Thoolei,Myanmar,Local BOT,160.0,160.0,0.0,,700.0,2020.0
+5,Belin,LocMoU,17.5197229999999,97.2435459999999,Mon,Thaton,Bilin,,Bilin,Bilin,Bilin,Bilin River,HCDG,Myanmar,Local BOT,280.0,280.0,0.0,,1100.0,2021.0
+6,Buywa (upper),GOM Plan,20.76609,94.0818,Magway,Minbu,Setotaya,,Ayeyarwady,Mone Chaung,Mone Chaung,Mon Chaung,MOALI,Myanmar,Sole Investment ,150.0,150.0,0.0,,600.0,2019.0
+7,Buywa,Construction,20.6580559999999,94.150833,Magway,Minbu,Setotaya,,Ayeyarwady,Mone Chaung,Mone Chaung,Mon Chaung,MOALI,Myanmar,Sole Investment ,42.0,42.0,0.0,,,2018.0
+8,Chipwi,JVA,25.8904999999999,98.12572,Kachin,Myitkyina,Chipwi,Chipwi,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka,CPI,PRC,Foreign JV/BOT,3400.0,340.0,1700.0,PRC,10700.0,2020.0
+9,Chipwi Nge,Built,25.806073,98.1840389999999,Kachin,Myitkyina,Chipwi,Chipwi,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,Chipwi Hka,SPIC,PRC,Foreign JV/BOT,99.0,20.0,79.0,,,2013.0
+10,Dapein 1,Built,24.421451,97.525448,Kachin,Bhamo,Bhamo,,Ayeyarwady,Dapein,Dapein,Dapein,China Datang,PRC,Foreign JV/BOT,240.0,19.0,221.0,PRC,,2011.0
+11,Dapein 2,MOU,24.36827,97.4214,Kachin,Bhamo,Moemauk,,Ayeyarwady,Dapein,Dapein,Dapein,DUHD,PRC,Foreign JV/BOT,140.0,70.0,70.0,,600.0,2022.0
+12,Deedoke,MOU,21.68723,96.404455,Mandalay,Pyinoolwin,Kyaukse,Hngel Kyi Thaik,Ayeyarwady,Myitnge,Lower Myitnge,Lower Myitnge,Andritz Hydro,Austria,Foreign JV/BOT,60.0,66.0,-6.000000000000005,,200.0,2020.0
+13,Dum Ban,MOU,25.511556,97.907021,Kachin,Myitkyina,Wyunmaw,Sadon,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka Tributary,YBEP/Chan Yinn Khuu,PRC/MYA,Foreign JV/BOT,130.0,130.0,0.0,,500.0,2020.0
+14,Gaw Lan,JVA,26.051936,98.580461,Kachin,Myitkyina,Chipwi,,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Naw Chang  Hka,YEIG/IGOEC,PRC/MYA,Foreign JV/BOT,120.0,60.0,60.0,,500.0,2026.0
+15,Hawkham (upper) ,MOU,19.211666666666666,97.39972222222222,Kayah,Bawlakhe,,,Thanlwin,Nam Pawn,Nam Pawn,Nam Pawn,TEI/HCTC,SIN/MYA,Foreign JV/BOT,180.0,,,,700.0,2020.0
+16,He Kou,MOU,21.341291,100.720928,Shan,He Kou,,,Mekong,Nam Lwe,Nam Lwe,Nam Lwe,YNIC,PRC,Foreign JV/BOT,138.0,69.0,69.0,<-PRC?,600.0,2025.0
+17,Hkankawn,MOA,26.023865,98.429523,Kachin,Myitkyina,Tsawlaw,Tsawlaw,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Naw Chang  Hka,YEIG/IGOEC,PRC/MYA,Foreign JV/BOT,140.0,70.0,70.0,<-PRC?,600.0,2026.0
+18,Pisa,MOA,26.598389,98.34309,Kachin,Putau,Kanglanphu,,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka,CPI,PRC,Foreign JV/BOT,2000.0,,,<-PRC?,7100.0,2030.0
+19,Tamanthi ,Suspended,25.322227,95.2969549999999,Sagaing,Hkamti,Htamanthi,Homemalin,Chindwin,Chindwin,Upper Chindwin,Chindwin,NHPC,India,Foreign JV/BOT,1200.0,,,India,4600.0,
+20,Hutgyi,MOA,17.5279999999999,97.747,Kayin,Hpapun,Kamamung,,Thanlwin,Thanlwin Mainstem,Lower Thanlwin,Thanlwin Mainstem,Sinohydro+EGATi+IGOEC,PRC/THA/MYA,Foreign JV/BOT,1360.0,136.0,1224.0,Thailand,5100.0,2020.0
+21,Kabaung,Built,18.8967169999999,96.220825,Bago,Taungoo,Oak Twin,,Sittaung,Other Sittaung,Other Sittaung,Kabaung Chaung,MoEE/MOALI,Myanmar,Sole Investment ,30.0,30.0,0.0,,,2008.0
+22,Keng Tawng,Built,20.598345,98.29305,Shan,Linkhe,Moenane,,Thanlwin,Nam Teng,Nam Teng,Nam Teng,MoEE,Myanmar,Sole Investment,54.0,54.0,0.0,,,2009.0
+23,Keng Tawng (upper),Construction,20.74558,98.184077,Shan,Linkhe,Keng Tawng,,Thanlwin,Nam Teng,Nam Teng,Nam Teng,MoEE,Myanmar,Sole Investment ,51.0,51.0,0.0,,,2019.0
+24,Keng Tong,MOU,21.617799,99.500985,Shan,Mongkhak,,,Mekong,Nam Lwe,Nam Lwe,Nam Lwe,YNIC,PRC,Foreign JV/BOT,170.0,85.0,85.0,<-PRC?,700.0,2025.0
+25,Keng Yang,MOU,21.3469,100.5619,Shan,He Kou,,,Mekong,Nam Lwe,Nam Lwe,Nam Lwe,YNIC,PRC,Foreign JV/BOT,70.0,35.0,35.0,<-PRC?,300.0,2025.0
+26,Khaunglanphu,MOA,26.849507,98.376808,Kachin,Puta-O,Kanglanphu,,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka,CPI,PRC,Foreign JV/BOT,2700.0,,,PRC,9100.0,2030.0
+27,Kinda,Built,21.160437,96.321037,Shan,Taunggyi,Kyaukse,Kanzwe,Ayeyarwady,Myitnge,Zawgyi/Myogyi,Panlaung Chaung,MoEE,Myanmar,Sole Investment ,56.0,56.0,0.0,,,1990.0
+28,Kun Chaung,Built,18.4203669999999,96.363854,Bago,Bago,Pyu,,Sittaung,Other Sittaung,Other Sittaung,Kun Chaung,MoEE,Myanmar,Sole Investment ,60.0,60.0,0.0,,,2012.0
+29,KunLong,JVA,23.5316669999999,98.6111109999999,Shan,Kunlong,Kunlong,Huli,Thanlwin,Thanlwin Mainstem,Upper Thanlwin,Thanlwin Mainstem,"Hanergy YN, MPC",PRC/MYA,Foreign JV/BOT,1400.0,700.0,700.0,PRC,5200.0,2023.0
+30,Kyee Ohn Kyee Wa,Built,20.331,94.4159999999999,Magway,Minbu,Sidoktaya,,Ayeyarwady,Mone Chaung,Mone Chaung,Mon Chaung,MOALI,Myanmar,Sole Investment ,74.0,74.0,0.0,,,2012.0
+31,Lawngdin,MOA,26.04301178,98.2777431399999,Kachin,Myitkyina,Tsawlaw,Tsawlaw,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Naw Chang  Hka,YEIG/IGOEC,PRC/MYA,Foreign JV/BOT,600.0,300.0,300.0,<-PRC?,2400.0,2026.0
+32,Lemro 1,MOU,20.857443,93.350503,Chin,Mindat,,,Rakhine,Lemro,Lemro,Le Mro,Tractabel,France,Foreign JV/BOT,600.0,600.0,0.0,,2400.0,
+33,Laza,JVA,26.491779,97.77695,Kachin,Puta-O,Sumprabum,Sumprabum,Ayeyarwady,Ayeyarwady Headwaters,Mali Hka,Mali Hka,CPIYN,PRC,Foreign JV/BOT,1900.0,950.0,950.0,,6800.0,2025.0
+34,Lemro 2,MOU,20.740347,93.268689,Rakhine,Mrauk Oo,Mrauk Oo,,Rakhine,Lemro,Lemro,Le Mro,Tractabel,France,Foreign JV/BOT,90.0,90.0,0.0,,400.0,
+35,Nam Pawn (lower),MOU,19.555,97.40861111111111,Kayah,Loikaw,,,Thanlwin,Nam Pawn,Nam Pawn,Nam Pawn,TEI/HCTC,SIN/MYA,Foreign JV/BOT,105.0,105.0,0.0,,400.0,2020.0
+36,Mong Ton,MOU,20.456389,98.65,Shan,Monghsat,Mongtong,,Thanlwin,Thanlwin Mainstem,Middle Thanlwin,Thanlwin Mainstem,Three Gorges+EGAT,PRC/Thailand,Foreign JV/BOT,7000.0,700.0,6300.0,Thailand,14500.0,2030.0
+37,Manipur,MOU,22.804356,93.943248,Chin,Falam,Kalay,,Chindwin,Manipur,Manipur,Manipura,CHEC/Sein,PRC/MYA,Foreign JV/BOT,380.0,380.0,0.0,,1500.0,2020.0
+38,Mantong,MOA,22.97469,98.55727,Shan,Hopang,Minemaw,,Thanlwin,Nam Ma,Nam Ma,Nam Ma,HydroChina/IGOEC,PRC/MYA,Foreign JV/BOT,225.0,112.5,112.5,PRC,900.0,2024.0
+39,Mone Chaung,Built,20.479942,94.2553249999999,Magway,Minbu,Setoktaya,Aukpone,Ayeyarwady,Mone Chaung,Mone Chaung,Mon Chaung,MoEE/MOALI,Myanmar,Sole Investment ,75.0,75.0,0.0,,,2004.0
+40,Mongwa,Built,21.39699,100.325821,Shan,Mong Yawng,KengTung,Manlane,Mekong,Nam Lwe,Nam Lwe,Nam Lwe,ESDC,Myanmar,Local BOT,66.0,66.0,0.0,,,2017.0
+41,Myitsone,JVA,25.715,97.5349999999999,Kachin,Myitkyina,Myitkyina,,Ayeyarwady,Ayeyarwady,Upper Ayeyarwady Mainstem,Ayeyarwady,CPIYN/AWC,PRC/MYA,Foreign JV/BOT,6000.0,600.0,5400.0,PRC,14200.0,
+42,Myittha,Built,21.992222,94.036944,Magway,GaNaw,GaNaw,,Chindwin,Myittha,Myittha,Myittha,MOALI,Myanmar,Sole Investment ,40.0,40.0,0.0,,,2017.0
+43,Myogyi,Built,21.46349,96.39144,Shan,Taunggyi,Ywa Ngan,,Ayeyarwady,Myitnge,Zawgyi/Myogyi,Zawgyi River,MOALI,Myanmar,Sole Investment ,30.0,30.0,0.0,,,2015.0
+44,Nam Hka,MOU,21.733821,98.950044,Shan,Hopang,Mong Sat,,Thanlwin,Nam Hka,Nam Hka,Nam Hka,YNIC,PRC,Foreign JV/BOT,210.0,105.0,105.0,,900.0,2025.0
+45,Nam Hsim,MOU,22.5602660004,97.124079,Shan,Hsipaw,,,Ayeyarwady,Myitnge,Upper Myitnge,Myitnge Upper,PCR/SE,PRC/MYA,Foreign JV/BOT,30.0,30.0,0.0,,100.0,2020.0
+46,Nam Lang,MOU,22.1555650002,97.248615,Shan,Hsipaw,,,Ayeyarwady,Myitnge,Upper Myitnge,Myitnge Upper,PCR/SE,PRC/MYA,Foreign JV/BOT,210.0,210.0,0.0,,900.0,2020.0
+47,Nam Li,MOU,25.369858,97.811427,Kachin,Myitkyina,Wyunmaw,Sadon(Twn),Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka Tributary,YBEP/Chan Yinn Khuu,PRC/MYA,Foreign JV/BOT,165.0,165.0,0.0,,700.0,2020.0
+48,Nam Lin,LocMoU,20.742516,100.241026,Shan,Tachileik,Tachileik,,Mekong,Nam Lin,Nam Lin,Nam Lin,MAM,Myanmar,Local BOT,36.0,36.0,0.0,,100.0,2021.0
+49,Nam Paw,Covenant,23.9443409997,97.9110009997,Shan,Muse,Muse,Selan,Ayeyarwady,Shweli,Shweli,Nam Paw Creek,Great Hor Kham,Myanmar,Local BOT,20.0,20.0,0.0,,100.0,2019.0
+50,Nam Pawn (upper)  ,MOU,20.062121,97.437368,Shan,Hpi Hseng,,,Thanlwin,Nam Pawn,Nam Pawn,Nam Pawn,TEI/HCTC,SIN/MYA,Foreign JV/BOT,150.0,150.0,0.0,,600.0,2020.0
+51,Nam Tabak I,MOA,25.090722,97.713906,Kachin,Myitkyina,Waingmaw,Waingmaw,Ayeyarwady,Namtabak,Namtabak,Namtamhpak,China Guodian/Tun Thwin Mining),PRC/MYA,Foreign JV/BOT,141.0,,,<-PRC?,600.0,2027.0
+52,Nam Tu,LocMoU,22.7209429996,97.3193649999,Shan,Kyaukme,Hsipaw,,Ayeyarwady,Myitnge,Upper Myitnge,Myitnge Upper,NCEH,Myanmar,Local BOT,100.0,100.0,0.0,,400.0,2021.0
+53,Nancho,Built,19.7412001199999,96.4504829899999,Naypyitaw,Det Khi Na,Pyinmana,,Sittaung,Paung Laung,Paung Laung,Sin The Chaung,MoEE,Myanmar,Sole Investment ,40.0,40.0,0.0,,,2013.0
+54,Naopha,MOA,22.9874639999999,98.4991509999999,Shan,Lashio,Tangyan,,Thanlwin,Thanlwin Mainstem,Upper Thanlwin,Thanlwin Mainstem,HydroChina/IGOEC,PRC/MYA,Foreign JV/BOT,1200.0,600.0,600.0,PRC,4600.0,2026.0
+55,Paung Laung (lower),Built,19.785,96.3349999999999,Naypyitaw,Det Khi Na,Pyinmana,Zayyarthiri,Sittaung,Paung Laung,Paung Laung,Paung Laung Chaung,MoEE/MOALI,Myanmar,Sole Investment ,280.0,280.0,0.0,,,2005.0
+56,Paung Laung (middle),MOU,19.8599999999999,96.5079999999999,Mandalay,Nay Pyi Taw,Pyinmana,,Sittaung,Paung Laung,Paung Laung,Paung Laung Chaung,Energized Myanmar,SIN,Foreign JV/BOT,100.0,100.0,0.0,,400.0,2021.0
+57,Paung Laung (upper),Built,19.756,96.5979999999999,Mandalay,Nay Pyi Taw,Pyinmana,,Sittaung,Paung Laung,Paung Laung,Paung Laung Chaung,MoEE,Myanmar,Sole Investment ,140.0,140.0,0.0,,,2015.0
+58,Hpak Nam,MOU,20.209251,97.456152,Shan,Hpi Hseng,,,Thanlwin,Nam Pawn,Nam Pawn,Nam Pawn,TEI/HCTC,SIN/MYA,Foreign JV/BOT,105.0,105.0,0.0,,400.0,2020.0
+59,Hpi Hseng,MOU,20.118443,97.43497,Shan,Hpi Hseng,,,Thanlwin,Nam Pawn,Nam Pawn,Nam Pawn,TEI/HCTC,SIN/MYA,Foreign JV/BOT,45.0,45.0,0.0,,200.0,2020.0
+60,Phyu Chaung,Built,18.506214,96.3510279999999,Bago,Taungoo,Phyu,,Sittaung,Other Sittaung,Other Sittaung,Pyu Chaung,MoEE/MOALI,Myanmar,Sole Investment ,40.0,40.0,0.0,,,2015.0
+61,Renan,MOA,27.525941,98.090192,Kachin,Puta-O,Khawbude,,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka,CPI,PRC,Foreign JV/BOT,1200.0,,,PRC,4600.0,2030.0
+62,Sedawgyi,Built,22.3486459999999,96.326937,Mandalay,Pyinoolwin,Mandalay,,Ayeyarwady,Ma Gyi Chaung ,Ma Gyi Chaung ,Ma Gyi Chaung ,MoEE,Myanmar,Sole Investment,25.0,25.0,0.0,,,1989.0
+63,Sedawgyi (upper),GOM Plan,22.74764,96.20626,Shan,Kyaukme,Mandalay,,Ayeyarwady,Ma Gyi Chaung ,Ma Gyi Chaung ,Ma Gyi Chaung ,MOALI,Myanmar,Sole Investment,64.0,64.0,0.0,,300.0,
+64,Shwegyin,Built,17.970227,96.935001,Bago,Bago,Shwegyin,,Sittaung,Other Sittaung,Other Sittaung,Shwegyin River,MoEE,Myanmar,Sole Investment ,75.0,75.0,0.0,,,2011.0
+65,Shweli 1,Built,23.698,97.506,Shan,Muse,Manthet Village,Nam Hkan,Ayeyarwady,Shweli,Shweli,Shweli,YUPD,PRC,Foreign JV/BOT,600.0,400.0,200.00000000000003,PRC,,2009.0
+66,Shweli 2,MOA,23.6531,97.31235,Shan,Muse,Namkham,,Ayeyarwady,Shweli,Shweli,Shweli,HIE/AWC,PRC/MYA,Foreign JV/BOT,520.0,260.0,260.0,PRC,2100.0,2021.0
+67,Shweli 3,Construction,23.315,96.769,Shan,Kyaukme,Namkham,,Ayeyarwady,Shweli,Shweli,Shweli,EDF SA,France,Foreign JV/BOT,1050.0,1050.0,0.0,,,2020.0
+68,Suo Lwe,MOU,21.359543,100.176054,Shan,Monghpyak,Moemeik,,Mekong,Nam Lwe,Nam Lwe,Nam Lwe,YNIC,PRC,Foreign JV/BOT,240.0,120.0,120.0,?,1000.0,2025.0
+69,Taninthayi,Suspended,12.7769999999999,98.9399999999999,Tanintharyi,Tenasserim,Tanintharyi,,Tanintharyi,Tanintharyi,Tanintharyi,Taninthayi,Italian-Thai,Thailand,Foreign JV/BOT,600.0,,,,2400.0,
+70,Thahtay,Construction,18.64,94.381,Rakhine,Thandwe,Thandwe,,Rakhine,Thahtay,Thahtay,Thahtay,MoEE,Myanmar,Sole Investment ,111.0,111.0,0.0,,,2020.0
+71,Thapanzeik,Built,23.3059179999999,95.3583299999999,Sagaing,Shwebo,Kyun Hla,Ngapyawtine,Ayeyarwady,Mu,Mu,Mu River,MoEE/MOALI,Myanmar,Sole Investment ,30.0,30.0,0.0,,,2002.0
+72,Thauk Ye Khat 2,Built,18.914102,96.619907,Kayin,Hpa-An,Tangoo,,Sittaung,Other Sittaung,Other Sittaung,Thauk Ye Khat,Gold Energy,Myanmar,Local BOT,120.0,120.0,0.0,,,2014.0
+73,Tongxinqiao,JVA,25.963646,98.360249,Kachin,Myitkyina,Myitkyina,Tsawlaw,Ayeyarwady,Ayeyarwady Headwaters,Naw Chang  Hka,Naw Chang  Hka,YEIG/IGOEC,PRC/MYA,Foreign JV/BOT,340.0,170.0,170.0,<-PRC?,1400.0,2026.0
+74,Wutsok,MOA,26.403585,98.292511,Kachin,Myitkyina,Myitkyina,Na Zun Baw,Ayeyarwady,Ayeyarwady Headwaters,Nmae Hka,N'Mai  Hka,CPI,PRC,Foreign JV/BOT,1800.0,,,PRC,6500.0,2030.0
+75,Yenwe,Built,18.085211,96.4461519999999,Bago,Bago,Kyauktaga,Myoechaung,Sittaung,Other Sittaung,Other Sittaung,Ye Nwe Chaung,MoEE/MOALI,Myanmar,Sole Investment ,25.0,25.0,0.0,,,2007.0
+76,Yeywa,Built,21.675196,96.4740769999999,Mandalay,Pyinoolwin,Kyaukse,Ye Yaman,Ayeyarwady,Myitnge,Lower Myitnge,Lower Myitnge,MoEE,Myanmar,Sole Investment ,790.0,790.0,0.0,,,2010.0
+77,Yeywa (middle),MOU,21.96023958,96.87313044,Shan,Kyaukme,Nawng Khio,Yedwingyi,Ayeyarwady,Myitnge,Lower Myitnge,Lower Myitnge,SN Power,Norway,Foreign JV/BOT,700.0,700.0,0.0,,2800.0,2020.0
+78,Yeywa (upper),Construction,22.254093,97.046741,Shan,Pyinoolwin,Kyautme,,Ayeyarwady,Myitnge,Lower Myitnge,Lower Myitnge,MoEE,Myanmar,Sole Investment ,280.0,280.0,0.0,,,2019.0
+79,Ywathit,MOA,19.131059,97.521257,Kayah,Bawlake,Ywathit,Bawlakhe,Thanlwin,Thanlwin Mainstem,Middle Thanlwin,Thanlwin Mainstem,CDOI/STH,PRC/MYA,Foreign JV/BOT,4000.0,400.0,3600.0,Thailand,11900.0,2030.0
+80,Zaungtu,Built,17.755818,96.19898,Bago,Bago,Bago,,Myit Mo Hka & Bago,Bago,Bago,Bago River,MoEE,Myanmar,Sole Investment ,20.0,20.0,0.0,,,2000.0
+81,Zawgyi I,Built,21.3832999999999,96.90147,Shan,Taunggyi,Yaksauk,,Ayeyarwady,Myitnge,Zawgyi/Myogyi,Zawgyi River,MoEE,Myanmar,Sole Investment ,18.0,18.0,0.0,,,1995.0
+82,Zawgyi II,Built,21.5648,96.8726,Shan,Taunggyi,Yaksauk,,Ayeyarwady,Myitnge,Zawgyi/Myogyi,Zawgyi River,MoEE/MOALI,Myanmar,Sole Investment ,12.0,12.0,0.0,,,2011.0
+83,Mali,Built,24.98458,97.6135,Kachin,Myitkyina,Waingmaw,Gau Dau Yang,Ayeyarwady,Mali Creek,Mali Creek,Mali Creek,Buga Co.,Myanmar,Local BOT,10.5,10.5,0.0,,,2006.0
+84,Nam Tabak II,MOA,25.119755,97.650627,Kachin,Myitkyina,Waingmaw,Waingmaw,Ayeyarwady,Namtabak,Namtabak,Namtamhpak,China Guodian/Tun Thwin Mining),PRC/MYA,Foreign JV/BOT,144.0,,,<-PRC?,600.0,2027.0
+85,Mong Hsat,LocMoU,20.662222222222223,99.375,Shan,Mong Hsat,,,Mekong,Nam Hkoke,Nam Hkoke,Nam Hkoke,Suntac Power Co.,Myanmar,Local BOT,30.0,30.0,30.0,,100.0,
+86,Tawog Hka,Identified,26.3096871595,96.5298703708,Kachin,Myitkyina,,Nam Gawn,Chindwin,Chindwin Headwater 2,Chindwin Headwater 2,Nam Lanog Hka,,,,50.0,,,,200.0,
+87,Ta Rung Hka,Identified,26.7180294984,96.4682903641,Kachin,Myitkyina,,TaKyet,Chindwin,Chindwin Headwater 1,Chindwin Headwater 1,Ta Rung Hka,,,,150.0,,,,600.0,
+88,Ta Nai Hka,Identified,26.294174906,96.9500796869,Kachin,Myitkyina,,Aung Lut,Chindwin,Chindwin Headwater 2,Chindwin Headwater 2,Ta Nai Hka,,,,15.0,,,,100.0,
+89,Thauk Ye Khat 1,Identified,18.938586522,96.7196235476,Kayin,,,,Sittaung,Other Sittaung,Other Sittaung,Thauk Ye Khat,,,,150.0,,,,600.0,
+90,Yunzalin,Identified,18.2949598507,97.3408098356,Kayin,Panan,,,Thanlwin,Yunzalin,Yunzalin HPP,,,,,100.0,,,,400.0,
+91,Lam Pha,Identified,16.3050211034,98.3487578274,Kayin,Kawareik,,Lam Pha,Thanlwin,Lam Pha,Lam Pha HPP,Lam Pha,,,,19.5,,,,100.0,
+92,Mi Chaung,Identified,21.3341874494,93.0734954353,Chin,Mindat,,,Rakhine,Kaladan,Kaladan,Mi Chaung,,,,200.0,,,,800.0,
+93,U Yu Chaung,Identified,24.8659483,95.2944309187,Sagaing,Hkamti,,,Chindwin,Uyu,Uyu,Uyu,,,,12.0,,,,50.0,
+94,Thein Kun Chaung,Identified,11.7699493323,99.3312051472,Tanintharyi,Myeik,,,Tanintharyi,Tanintharyi,Tanintharyi,Thein Kun,,,,25.0,,,,100.0,
+95,Tha Gyet Chaung,Identified,12.1328960339,99.2271612368,Tanintharyi,,,,Tanintharyi,Tanintharyi,Tanintharyi,Tha Gyet,,,,20.0,,,,100.0,
+96,Glohong Kra,Identified,10.7752089662,98.8583235172,Tanintharyi,,,,Tanintharyi,Glohong Kra,Glohong Kra HPP,Glohong Kra,,,,40.0,,,,200.0,
+97,Myet Taw Chaung,Identified,15.6820111432,97.9157689741,Kayin,Kawareik,,,Thanlwin,Myet Taw Chaung,Myet Taw Chaung HPP,Myet Taw Chaung,,,,10.0,,,,40.0,
+98,Mindon,Identified,19.3708897645,94.7128660392,Magway,Thayet,,,Ayeyarwady,Mindon,Mindon HPP,,,,,18.0,,,,100.0,
+99,Than Dwe,Identified,18.3861441333,94.4939020793,Rakhine,Thandwe,Thandwe,,Rakhine,Than Dwe,Than Dwe HPP,Than Dwe,,,,39.0,,,,200.0,
+100,Kyein Ta Li,Identified,17.9500121403,94.5765079082,Rakhine,,,,Rakhine,Kyein Ta Li,Kyein Ta Li HPP,Kyein Ta Li,,,,28.0,,,,100.0,
+101,Nam Hkok,Identified,20.1963370559,99.3466699698,Shan,Mong Hsat,,,Mekong,Nam Hkoke,Nam Hkoke,Nam Hkoke,,,,30.0,,,,100.0,
+102,Saing Din,Identified,20.8937787735,92.6521877357,Rakhine,,BuuTheeTaung,,Rakhine,Saing Din Creek,Saing Din Creeek,,,,,76.5,,,,300.0,
+103,Sar Ra Wa Chaung,Identified,12.8294060736,98.9816704481,Tanintharyi,,,,Tanintharyi,Tanintharyi,Tanintharyi,,,,,11.0,,,,50.0,

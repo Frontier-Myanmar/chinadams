@@ -1,0 +1,916 @@
+,Trade Flow,Year,Simplified_Location,Top_Country_or_Other,Is_Extractives,Value_USD
+0,Export,2010,Australia and New Zealand,Others,Extractives,379630.0
+1,Export,2010,Australia and New Zealand,Others,Non Extractives,6583601.0
+2,Export,2010,China,China,Extractives,248524347.0
+3,Export,2010,China,China,Non Extractives,227747733.0
+4,Export,2010,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,1597088296.0
+5,Export,2010,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,14664485.0
+6,Export,2010,Eastern Asia,Others,Extractives,132309.0
+7,Export,2010,Eastern Europe,Others,Extractives,35787.0
+8,Export,2010,Eastern Europe,Others,Non Extractives,14408095.0
+9,Export,2010,India,India,Extractives,351995698.0
+10,Export,2010,India,India,Non Extractives,606109716.0
+11,Export,2010,Japan,Japan,Extractives,8631602.0
+12,Export,2010,Japan,Japan,Non Extractives,206520455.0
+13,Export,2010,Latin America and the Caribbean,Others,Extractives,14868.0
+14,Export,2010,Latin America and the Caribbean,Others,Non Extractives,11742089.0
+15,Export,2010,Malaysia,Malaysia,Extractives,9696912.0
+16,Export,2010,Malaysia,Malaysia,Non Extractives,153151429.0
+17,Export,2010,N/A,Others,Extractives,5478171933.0
+18,Export,2010,N/A,Others,Non Extractives,2147064842.0
+19,Export,2010,Northern Africa,Others,Non Extractives,3134230.0
+20,Export,2010,Northern America,Others,Non Extractives,1702112.0
+21,Export,2010,Northern Europe,Others,Extractives,81725.0
+22,Export,2010,Northern Europe,Others,Non Extractives,1403899.0
+23,Export,2010,Rep. of Korea,Rep. of Korea,Extractives,1750158.0
+24,Export,2010,Rep. of Korea,Rep. of Korea,Non Extractives,123691860.0
+25,Export,2010,Singapore,Singapore,Extractives,53994540.0
+26,Export,2010,Singapore,Singapore,Non Extractives,222310978.0
+27,Export,2010,South-eastern Asia,Others,Extractives,35309309.0
+28,Export,2010,South-eastern Asia,Others,Non Extractives,83411030.0
+29,Export,2010,Southern Asia,Others,Extractives,52778917.0
+30,Export,2010,Southern Asia,Others,Non Extractives,50234189.0
+31,Export,2010,Southern Europe,Others,Extractives,67786.0
+32,Export,2010,Southern Europe,Others,Non Extractives,30658237.0
+33,Export,2010,Sub-Saharan Africa,Others,Non Extractives,105137783.0
+34,Export,2010,Thailand,Thailand,Extractives,3115614268.0
+35,Export,2010,Thailand,Thailand,Non Extractives,61632500.0
+36,Export,2010,United Kingdom,United Kingdom,Extractives,108.0
+37,Export,2010,United Kingdom,United Kingdom,Non Extractives,34774485.0
+38,Export,2010,Western Asia,Others,Extractives,1980531.0
+39,Export,2010,Western Asia,Others,Non Extractives,170729850.0
+40,Export,2010,Western Europe,Others,Extractives,64148.0
+41,Export,2010,Western Europe,Others,Non Extractives,17203007.0
+42,Export,2011,Australia and New Zealand,Others,Extractives,132123.0
+43,Export,2011,Australia and New Zealand,Others,Non Extractives,6309925.0
+44,Export,2011,China,China,Extractives,726353029.0
+45,Export,2011,China,China,Non Extractives,788924384.0
+46,Export,2011,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,546321297.0
+47,Export,2011,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,6437076.0
+48,Export,2011,Eastern Asia,Others,Non Extractives,80474.0
+49,Export,2011,Eastern Europe,Others,Extractives,73465.0
+50,Export,2011,Eastern Europe,Others,Non Extractives,47959983.0
+51,Export,2011,India,India,Extractives,337757135.0
+52,Export,2011,India,India,Non Extractives,591450542.0
+53,Export,2011,Japan,Japan,Extractives,17845603.0
+54,Export,2011,Japan,Japan,Non Extractives,292163426.0
+55,Export,2011,Latin America and the Caribbean,Others,Non Extractives,10966223.0
+56,Export,2011,Malaysia,Malaysia,Extractives,3817367.0
+57,Export,2011,Malaysia,Malaysia,Non Extractives,186631444.0
+58,Export,2011,Melanesia,Others,Non Extractives,375000.0
+59,Export,2011,N/A,Others,Extractives,4788294583.0
+60,Export,2011,N/A,Others,Non Extractives,3339574697.0
+61,Export,2011,Northern Africa,Others,Non Extractives,612700.0
+62,Export,2011,Northern America,Others,Extractives,56038.0
+63,Export,2011,Northern America,Others,Non Extractives,12082356.0
+64,Export,2011,Northern Europe,Others,Extractives,180515.0
+65,Export,2011,Northern Europe,Others,Non Extractives,1715524.0
+66,Export,2011,Rep. of Korea,Rep. of Korea,Extractives,1324236.0
+67,Export,2011,Rep. of Korea,Rep. of Korea,Non Extractives,205664147.0
+68,Export,2011,Singapore,Singapore,Extractives,47777864.0
+69,Export,2011,Singapore,Singapore,Non Extractives,349069379.0
+70,Export,2011,South-eastern Asia,Others,Extractives,10995994.0
+71,Export,2011,South-eastern Asia,Others,Non Extractives,145993895.0
+72,Export,2011,Southern Asia,Others,Extractives,95314748.0
+73,Export,2011,Southern Asia,Others,Non Extractives,71230834.0
+74,Export,2011,Southern Europe,Others,Non Extractives,26596621.0
+75,Export,2011,Sub-Saharan Africa,Others,Non Extractives,135693471.0
+76,Export,2011,Thailand,Thailand,Extractives,2996587224.0
+77,Export,2011,Thailand,Thailand,Non Extractives,220342649.0
+78,Export,2011,United Kingdom,United Kingdom,Extractives,76944.0
+79,Export,2011,United Kingdom,United Kingdom,Non Extractives,97288474.0
+80,Export,2011,Western Asia,Others,Extractives,3576553.0
+81,Export,2011,Western Asia,Others,Non Extractives,114280083.0
+82,Export,2011,Western Europe,Others,Extractives,44867.0
+83,Export,2011,Western Europe,Others,Non Extractives,23480195.0
+84,Export,2012,Australia and New Zealand,Others,Extractives,645083.0
+85,Export,2012,Australia and New Zealand,Others,Non Extractives,6674845.0
+86,Export,2012,China,China,Extractives,408990814.0
+87,Export,2012,China,China,Non Extractives,973908854.0
+88,Export,2012,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,139317771.0
+89,Export,2012,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,3251250.0
+90,Export,2012,Eastern Asia,Others,Non Extractives,199317.0
+91,Export,2012,Eastern Europe,Others,Extractives,1147527.0
+92,Export,2012,Eastern Europe,Others,Non Extractives,55785713.0
+93,Export,2012,Germany,Germany,Non Extractives,9199590.0
+94,Export,2012,India,India,Extractives,1716757435.0
+95,Export,2012,India,India,Non Extractives,1046742087.0
+96,Export,2012,Japan,Japan,Extractives,6447315.0
+97,Export,2012,Japan,Japan,Non Extractives,367195928.0
+98,Export,2012,Latin America and the Caribbean,Others,Extractives,125971.0
+99,Export,2012,Latin America and the Caribbean,Others,Non Extractives,15619638.0
+100,Export,2012,Malaysia,Malaysia,Extractives,4930702.0
+101,Export,2012,Malaysia,Malaysia,Non Extractives,422589698.0
+102,Export,2012,Melanesia,Others,Non Extractives,75600.0
+103,Export,2012,Micronesia,Others,Non Extractives,284240.0
+104,Export,2012,N/A,Others,Extractives,4660063477.0
+105,Export,2012,N/A,Others,Non Extractives,4393375685.0
+106,Export,2012,Northern Africa,Others,Extractives,119422.0
+107,Export,2012,Northern Africa,Others,Non Extractives,11700340.0
+108,Export,2012,Northern America,Others,Extractives,239675.0
+109,Export,2012,Northern America,Others,Non Extractives,13591226.0
+110,Export,2012,Northern Europe,Others,Extractives,142278.0
+111,Export,2012,Northern Europe,Others,Non Extractives,3480147.0
+112,Export,2012,Rep. of Korea,Rep. of Korea,Extractives,791797.0
+113,Export,2012,Rep. of Korea,Rep. of Korea,Non Extractives,294016105.0
+114,Export,2012,Singapore,Singapore,Extractives,24036176.0
+115,Export,2012,Singapore,Singapore,Non Extractives,332488448.0
+116,Export,2012,South-eastern Asia,Others,Extractives,46096217.0
+117,Export,2012,South-eastern Asia,Others,Non Extractives,74081471.0
+118,Export,2012,Southern Asia,Others,Extractives,30527428.0
+119,Export,2012,Southern Asia,Others,Non Extractives,19823326.0
+120,Export,2012,Southern Europe,Others,Extractives,668234.0
+121,Export,2012,Southern Europe,Others,Non Extractives,342795416.0
+122,Export,2012,Sub-Saharan Africa,Others,Extractives,31777.0
+123,Export,2012,Sub-Saharan Africa,Others,Non Extractives,73958403.0
+124,Export,2012,Thailand,Thailand,Extractives,2266533528.0
+125,Export,2012,Thailand,Thailand,Non Extractives,128110633.0
+126,Export,2012,United Kingdom,United Kingdom,Non Extractives,10052799.0
+127,Export,2012,Western Asia,Others,Extractives,12380010.0
+128,Export,2012,Western Asia,Others,Non Extractives,152938716.0
+129,Export,2012,Western Europe,Others,Extractives,66664.0
+130,Export,2012,Western Europe,Others,Non Extractives,34340179.0
+131,Export,2013,Australia and New Zealand,Others,Extractives,5630473.0
+132,Export,2013,Australia and New Zealand,Others,Non Extractives,9552072.0
+133,Export,2013,China,China,Extractives,650338460.0
+134,Export,2013,China,China,Non Extractives,2402723340.0
+135,Export,2013,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,357088120.0
+136,Export,2013,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,16171934.0
+137,Export,2013,Eastern Asia,Others,Non Extractives,2227215.0
+138,Export,2013,Eastern Europe,Others,Extractives,62021.0
+139,Export,2013,Eastern Europe,Others,Non Extractives,21618640.0
+140,Export,2013,Germany,Germany,Non Extractives,26192570.0
+141,Export,2013,India,India,Extractives,389365374.0
+142,Export,2013,India,India,Non Extractives,422164628.0
+143,Export,2013,Japan,Japan,Extractives,2981768.0
+144,Export,2013,Japan,Japan,Non Extractives,776994243.0
+145,Export,2013,Latin America and the Caribbean,Others,Extractives,502840.0
+146,Export,2013,Latin America and the Caribbean,Others,Non Extractives,22413223.0
+147,Export,2013,Malaysia,Malaysia,Extractives,3124902.0
+148,Export,2013,Malaysia,Malaysia,Non Extractives,240301015.0
+149,Export,2013,Melanesia,Others,Extractives,296663.0
+150,Export,2013,Melanesia,Others,Non Extractives,112721.0
+151,Export,2013,Micronesia,Others,Non Extractives,59615.0
+152,Export,2013,N/A,Others,Extractives,5482285264.0
+153,Export,2013,N/A,Others,Non Extractives,5954042473.0
+154,Export,2013,Northern Africa,Others,Non Extractives,347150.0
+155,Export,2013,Northern America,Others,Extractives,16053.0
+156,Export,2013,Northern America,Others,Non Extractives,13802318.0
+157,Export,2013,Northern Europe,Others,Extractives,452789.0
+158,Export,2013,Northern Europe,Others,Non Extractives,9833354.0
+159,Export,2013,Rep. of Korea,Rep. of Korea,Extractives,4422548.0
+160,Export,2013,Rep. of Korea,Rep. of Korea,Non Extractives,322469224.0
+161,Export,2013,Singapore,Singapore,Extractives,148212847.0
+162,Export,2013,Singapore,Singapore,Non Extractives,509160867.0
+163,Export,2013,South-eastern Asia,Others,Extractives,36577145.0
+164,Export,2013,South-eastern Asia,Others,Non Extractives,86236186.0
+165,Export,2013,Southern Asia,Others,Extractives,29358689.0
+166,Export,2013,Southern Asia,Others,Non Extractives,24874173.0
+167,Export,2013,Southern Europe,Others,Extractives,1161935.0
+168,Export,2013,Southern Europe,Others,Non Extractives,77558843.0
+169,Export,2013,Sub-Saharan Africa,Others,Extractives,94111.0
+170,Export,2013,Sub-Saharan Africa,Others,Non Extractives,8859183.0
+171,Export,2013,Thailand,Thailand,Extractives,3828823216.0
+172,Export,2013,Thailand,Thailand,Non Extractives,769299868.0
+173,Export,2013,United Kingdom,United Kingdom,Extractives,77871.0
+174,Export,2013,United Kingdom,United Kingdom,Non Extractives,56065836.0
+175,Export,2013,Western Asia,Others,Extractives,23095095.0
+176,Export,2013,Western Asia,Others,Non Extractives,95705195.0
+177,Export,2013,Western Europe,Others,Extractives,394928.0
+178,Export,2013,Western Europe,Others,Non Extractives,30987427.0
+179,Export,2014,Australia and New Zealand,Others,Extractives,386834.0
+180,Export,2014,Australia and New Zealand,Others,Non Extractives,12786233.0
+181,Export,2014,China,China,Extractives,2079204339.0
+182,Export,2014,China,China,Non Extractives,1956169755.0
+183,Export,2014,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,335800060.0
+184,Export,2014,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,10456309.0
+185,Export,2014,Eastern Asia,Others,Non Extractives,1583128.0
+186,Export,2014,Eastern Europe,Others,Extractives,265288.0
+187,Export,2014,Eastern Europe,Others,Non Extractives,46677458.0
+188,Export,2014,Germany,Germany,Extractives,194958.0
+189,Export,2014,Germany,Germany,Non Extractives,63302685.0
+190,Export,2014,India,India,Extractives,284132138.0
+191,Export,2014,India,India,Non Extractives,551451112.0
+192,Export,2014,Japan,Japan,Extractives,14503128.0
+193,Export,2014,Japan,Japan,Non Extractives,517725044.0
+194,Export,2014,Latin America and the Caribbean,Others,Extractives,2618166.0
+195,Export,2014,Latin America and the Caribbean,Others,Non Extractives,24868717.0
+196,Export,2014,Malaysia,Malaysia,Extractives,4033845.0
+197,Export,2014,Malaysia,Malaysia,Non Extractives,251587445.0
+198,Export,2014,Melanesia,Others,Non Extractives,101250.0
+199,Export,2014,Micronesia,Others,Non Extractives,69650.0
+200,Export,2014,N/A,Others,Extractives,6474641061.0
+201,Export,2014,N/A,Others,Non Extractives,4977219481.0
+202,Export,2014,Northern Africa,Others,Extractives,28363.0
+203,Export,2014,Northern Africa,Others,Non Extractives,536368.0
+204,Export,2014,Northern America,Others,Extractives,244747.0
+205,Export,2014,Northern America,Others,Non Extractives,47091335.0
+206,Export,2014,Northern Europe,Others,Extractives,5422759.0
+207,Export,2014,Northern Europe,Others,Non Extractives,31323972.0
+208,Export,2014,Polynesia,Others,Non Extractives,255166.0
+209,Export,2014,Rep. of Korea,Rep. of Korea,Extractives,692584.0
+210,Export,2014,Rep. of Korea,Rep. of Korea,Non Extractives,376055523.0
+211,Export,2014,Singapore,Singapore,Extractives,121302438.0
+212,Export,2014,Singapore,Singapore,Non Extractives,428462944.0
+213,Export,2014,South-eastern Asia,Others,Extractives,75009758.0
+214,Export,2014,South-eastern Asia,Others,Non Extractives,121783919.0
+215,Export,2014,Southern Asia,Others,Extractives,17216450.0
+216,Export,2014,Southern Asia,Others,Non Extractives,60728287.0
+217,Export,2014,Southern Europe,Others,Extractives,1429323.0
+218,Export,2014,Southern Europe,Others,Non Extractives,55490675.0
+219,Export,2014,Sub-Saharan Africa,Others,Extractives,24040.0
+220,Export,2014,Sub-Saharan Africa,Others,Non Extractives,6509946.0
+221,Export,2014,Thailand,Thailand,Extractives,3527710021.0
+222,Export,2014,Thailand,Thailand,Non Extractives,218313235.0
+223,Export,2014,United Kingdom,United Kingdom,Extractives,48111.0
+224,Export,2014,United Kingdom,United Kingdom,Non Extractives,58236584.0
+225,Export,2014,Western Asia,Others,Extractives,1947585.0
+226,Export,2014,Western Asia,Others,Non Extractives,85055341.0
+227,Export,2014,Western Europe,Others,Extractives,2368157.0
+228,Export,2014,Western Europe,Others,Non Extractives,47305811.0
+229,Export,2015,Australia and New Zealand,Others,Extractives,763410.0
+230,Export,2015,Australia and New Zealand,Others,Non Extractives,7610762.0
+231,Export,2015,Central Asia,Others,Non Extractives,51890.0
+232,Export,2015,China,China,Extractives,2645300883.0
+233,Export,2015,China,China,Non Extractives,2185544070.0
+234,Export,2015,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,287885492.0
+235,Export,2015,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,26307727.0
+236,Export,2015,Eastern Asia,Others,Non Extractives,1950647.0
+237,Export,2015,Eastern Europe,Others,Extractives,634269.0
+238,Export,2015,Eastern Europe,Others,Non Extractives,64818526.0
+239,Export,2015,Germany,Germany,Extractives,697005.0
+240,Export,2015,Germany,Germany,Non Extractives,78720961.0
+241,Export,2015,India,India,Extractives,119010514.0
+242,Export,2015,India,India,Non Extractives,894980272.0
+243,Export,2015,Japan,Japan,Extractives,10711106.0
+244,Export,2015,Japan,Japan,Non Extractives,475877411.0
+245,Export,2015,Latin America and the Caribbean,Others,Extractives,619886.0
+246,Export,2015,Latin America and the Caribbean,Others,Non Extractives,87983045.0
+247,Export,2015,Malaysia,Malaysia,Extractives,26785674.0
+248,Export,2015,Malaysia,Malaysia,Non Extractives,159018788.0
+249,Export,2015,Melanesia,Others,Non Extractives,453734.0
+250,Export,2015,Micronesia,Others,Non Extractives,441254.0
+251,Export,2015,N/A,Others,Extractives,6359355602.0
+252,Export,2015,N/A,Others,Non Extractives,5837888785.0
+253,Export,2015,Northern Africa,Others,Non Extractives,399541.0
+254,Export,2015,Northern America,Others,Extractives,2263361.0
+255,Export,2015,Northern America,Others,Non Extractives,75332650.0
+256,Export,2015,Northern Europe,Others,Extractives,912688.0
+257,Export,2015,Northern Europe,Others,Non Extractives,24296012.0
+258,Export,2015,Polynesia,Others,Non Extractives,311920.0
+259,Export,2015,Rep. of Korea,Rep. of Korea,Extractives,5238449.0
+260,Export,2015,Rep. of Korea,Rep. of Korea,Non Extractives,287418601.0
+261,Export,2015,Singapore,Singapore,Extractives,110273793.0
+262,Export,2015,Singapore,Singapore,Non Extractives,560091896.0
+263,Export,2015,South-eastern Asia,Others,Extractives,122282715.0
+264,Export,2015,South-eastern Asia,Others,Non Extractives,105799916.0
+265,Export,2015,Southern Asia,Others,Extractives,6308091.0
+266,Export,2015,Southern Asia,Others,Non Extractives,45815380.0
+267,Export,2015,Southern Europe,Others,Extractives,2321566.0
+268,Export,2015,Southern Europe,Others,Non Extractives,71087821.0
+269,Export,2015,Sub-Saharan Africa,Others,Extractives,1791907.0
+270,Export,2015,Sub-Saharan Africa,Others,Non Extractives,8959737.0
+271,Export,2015,Thailand,Thailand,Extractives,2998144826.0
+272,Export,2015,Thailand,Thailand,Non Extractives,361213255.0
+273,Export,2015,United Kingdom,United Kingdom,Extractives,390212.0
+274,Export,2015,United Kingdom,United Kingdom,Non Extractives,38853159.0
+275,Export,2015,Western Asia,Others,Extractives,6273371.0
+276,Export,2015,Western Asia,Others,Non Extractives,142294284.0
+277,Export,2015,Western Europe,Others,Extractives,9075374.0
+278,Export,2015,Western Europe,Others,Non Extractives,130130209.0
+279,Export,2016,Australia and New Zealand,Others,Extractives,674873.0
+280,Export,2016,Australia and New Zealand,Others,Non Extractives,22028561.0
+281,Export,2016,Central Asia,Others,Non Extractives,153784.0
+282,Export,2016,China,China,Extractives,1987832524.0
+283,Export,2016,China,China,Non Extractives,2778848123.0
+284,Export,2016,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,147742354.0
+285,Export,2016,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,44868906.0
+286,Export,2016,Eastern Asia,Others,Non Extractives,2454911.0
+287,Export,2016,Eastern Europe,Others,Extractives,569800.0
+288,Export,2016,Eastern Europe,Others,Non Extractives,92996823.0
+289,Export,2016,Germany,Germany,Extractives,1334010.0
+290,Export,2016,Germany,Germany,Non Extractives,171025983.0
+291,Export,2016,India,India,Extractives,139652149.0
+292,Export,2016,India,India,Non Extractives,898461737.0
+293,Export,2016,Japan,Japan,Extractives,8881784.0
+294,Export,2016,Japan,Japan,Non Extractives,654551933.0
+295,Export,2016,Latin America and the Caribbean,Others,Extractives,544576.0
+296,Export,2016,Latin America and the Caribbean,Others,Non Extractives,44986153.0
+297,Export,2016,Malaysia,Malaysia,Extractives,18058940.0
+298,Export,2016,Malaysia,Malaysia,Non Extractives,126300341.0
+299,Export,2016,Melanesia,Others,Non Extractives,756438.0
+300,Export,2016,Micronesia,Others,Non Extractives,212037.0
+301,Export,2016,N/A,Others,Extractives,4385294763.0
+302,Export,2016,N/A,Others,Non Extractives,7287422702.0
+303,Export,2016,Northern Africa,Others,Extractives,41958.0
+304,Export,2016,Northern Africa,Others,Non Extractives,1039198.0
+305,Export,2016,Northern America,Others,Extractives,6214842.0
+306,Export,2016,Northern America,Others,Non Extractives,176850322.0
+307,Export,2016,Northern Europe,Others,Extractives,1343768.0
+308,Export,2016,Northern Europe,Others,Non Extractives,43280121.0
+309,Export,2016,Polynesia,Others,Non Extractives,11526276.0
+310,Export,2016,Rep. of Korea,Rep. of Korea,Extractives,10475056.0
+311,Export,2016,Rep. of Korea,Rep. of Korea,Non Extractives,324340876.0
+312,Export,2016,Singapore,Singapore,Extractives,54875709.0
+313,Export,2016,Singapore,Singapore,Non Extractives,835883855.0
+314,Export,2016,South-eastern Asia,Others,Extractives,75114469.0
+315,Export,2016,South-eastern Asia,Others,Non Extractives,159643995.0
+316,Export,2016,Southern Asia,Others,Extractives,9102297.0
+317,Export,2016,Southern Asia,Others,Non Extractives,82825960.0
+318,Export,2016,Southern Europe,Others,Extractives,7020458.0
+319,Export,2016,Southern Europe,Others,Non Extractives,106029867.0
+320,Export,2016,Sub-Saharan Africa,Others,Extractives,59919.0
+321,Export,2016,Sub-Saharan Africa,Others,Non Extractives,25010243.0
+322,Export,2016,Thailand,Thailand,Extractives,1893738814.0
+323,Export,2016,Thailand,Thailand,Non Extractives,347757876.0
+324,Export,2016,United Kingdom,United Kingdom,Extractives,147494.0
+325,Export,2016,United Kingdom,United Kingdom,Non Extractives,68611457.0
+326,Export,2016,Western Asia,Others,Extractives,13862911.0
+327,Export,2016,Western Asia,Others,Non Extractives,108960155.0
+328,Export,2016,Western Europe,Others,Extractives,3847368.0
+329,Export,2016,Western Europe,Others,Non Extractives,151677879.0
+330,Export,2017,Australia and New Zealand,Others,Extractives,4639815.0
+331,Export,2017,Australia and New Zealand,Others,Non Extractives,25770989.0
+332,Export,2017,Central Asia,Others,Non Extractives,76351.0
+333,Export,2017,China,China,Extractives,2580309627.0
+334,Export,2017,China,China,Non Extractives,2817755427.0
+335,Export,2017,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,19289686.0
+336,Export,2017,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,61910444.0
+337,Export,2017,Eastern Asia,Others,Non Extractives,59163.0
+338,Export,2017,Eastern Europe,Others,Extractives,781098.0
+339,Export,2017,Eastern Europe,Others,Non Extractives,93436400.0
+340,Export,2017,Germany,Germany,Extractives,1611510.0
+341,Export,2017,Germany,Germany,Non Extractives,358735485.0
+342,Export,2017,India,India,Extractives,141421835.0
+343,Export,2017,India,India,Non Extractives,566693219.0
+344,Export,2017,Japan,Japan,Extractives,16569301.0
+345,Export,2017,Japan,Japan,Non Extractives,886456591.0
+346,Export,2017,Latin America and the Caribbean,Others,Extractives,308078.0
+347,Export,2017,Latin America and the Caribbean,Others,Non Extractives,43162043.0
+348,Export,2017,Malaysia,Malaysia,Extractives,75964295.0
+349,Export,2017,Malaysia,Malaysia,Non Extractives,111830208.0
+350,Export,2017,Melanesia,Others,Extractives,323471.0
+351,Export,2017,Melanesia,Others,Non Extractives,469222.0
+352,Export,2017,Micronesia,Others,Non Extractives,203.0
+353,Export,2017,N/A,Others,Extractives,5277046655.0
+354,Export,2017,N/A,Others,Non Extractives,8601717779.0
+355,Export,2017,Northern Africa,Others,Non Extractives,1003159.0
+356,Export,2017,Northern America,Others,Extractives,8955334.0
+357,Export,2017,Northern America,Others,Non Extractives,329629415.0
+358,Export,2017,Northern Europe,Others,Extractives,1233405.0
+359,Export,2017,Northern Europe,Others,Non Extractives,134935033.0
+360,Export,2017,Rep. of Korea,Rep. of Korea,Extractives,3899285.0
+361,Export,2017,Rep. of Korea,Rep. of Korea,Non Extractives,296757569.0
+362,Export,2017,Singapore,Singapore,Extractives,69876856.0
+363,Export,2017,Singapore,Singapore,Non Extractives,665347276.0
+364,Export,2017,South-eastern Asia,Others,Extractives,88456485.0
+365,Export,2017,South-eastern Asia,Others,Non Extractives,182274774.0
+366,Export,2017,Southern Asia,Others,Extractives,17332032.0
+367,Export,2017,Southern Asia,Others,Non Extractives,253423067.0
+368,Export,2017,Southern Europe,Others,Extractives,17216852.0
+369,Export,2017,Southern Europe,Others,Non Extractives,279572270.0
+370,Export,2017,Sub-Saharan Africa,Others,Extractives,516370.0
+371,Export,2017,Sub-Saharan Africa,Others,Non Extractives,176889237.0
+372,Export,2017,Thailand,Thailand,Extractives,2202365591.0
+373,Export,2017,Thailand,Thailand,Non Extractives,496291603.0
+374,Export,2017,United Kingdom,United Kingdom,Extractives,146932.0
+375,Export,2017,United Kingdom,United Kingdom,Non Extractives,288727947.0
+376,Export,2017,Western Asia,Others,Extractives,9001644.0
+377,Export,2017,Western Asia,Others,Non Extractives,129926251.0
+378,Export,2017,Western Europe,Others,Extractives,14610767.0
+379,Export,2017,Western Europe,Others,Non Extractives,364919227.0
+380,Export,2018,Australia and New Zealand,Others,Extractives,1682026.0
+381,Export,2018,Australia and New Zealand,Others,Non Extractives,22766395.0
+382,Export,2018,Central Asia,Others,Non Extractives,260065.0
+383,Export,2018,China,China,Extractives,2423099806.0
+384,Export,2018,China,China,Non Extractives,3136501323.0
+385,Export,2018,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,450511749.0
+386,Export,2018,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,116833632.0
+387,Export,2018,Eastern Asia,Others,Non Extractives,276470.0
+388,Export,2018,Eastern Europe,Others,Extractives,435917.0
+389,Export,2018,Eastern Europe,Others,Non Extractives,187352030.0
+390,Export,2018,Germany,Germany,Extractives,2088056.0
+391,Export,2018,Germany,Germany,Non Extractives,503335321.0
+392,Export,2018,India,India,Extractives,121249510.0
+393,Export,2018,India,India,Non Extractives,452885471.0
+394,Export,2018,Japan,Japan,Extractives,18179084.0
+395,Export,2018,Japan,Japan,Non Extractives,1369470207.0
+396,Export,2018,Latin America and the Caribbean,Others,Extractives,968043.0
+397,Export,2018,Latin America and the Caribbean,Others,Non Extractives,48014049.0
+398,Export,2018,Malaysia,Malaysia,Extractives,146100983.0
+399,Export,2018,Malaysia,Malaysia,Non Extractives,116712644.0
+400,Export,2018,Melanesia,Others,Extractives,161084.0
+401,Export,2018,Melanesia,Others,Non Extractives,297616.0
+402,Export,2018,N/A,Others,Extractives,5956310159.0
+403,Export,2018,N/A,Others,Non Extractives,10715302296.0
+404,Export,2018,Northern Africa,Others,Non Extractives,3782946.0
+405,Export,2018,Northern America,Others,Extractives,7017917.0
+406,Export,2018,Northern America,Others,Non Extractives,567210049.0
+407,Export,2018,Northern Europe,Others,Extractives,1450813.0
+408,Export,2018,Northern Europe,Others,Non Extractives,288028560.0
+409,Export,2018,Rep. of Korea,Rep. of Korea,Extractives,7861004.0
+410,Export,2018,Rep. of Korea,Rep. of Korea,Non Extractives,437971839.0
+411,Export,2018,Singapore,Singapore,Extractives,46279772.0
+412,Export,2018,Singapore,Singapore,Non Extractives,444132330.0
+413,Export,2018,South-eastern Asia,Others,Extractives,156421740.0
+414,Export,2018,South-eastern Asia,Others,Non Extractives,231502376.0
+415,Export,2018,Southern Asia,Others,Extractives,25914318.0
+416,Export,2018,Southern Asia,Others,Non Extractives,141253486.0
+417,Export,2018,Southern Europe,Others,Extractives,16076364.0
+418,Export,2018,Southern Europe,Others,Non Extractives,541326408.0
+419,Export,2018,Sub-Saharan Africa,Others,Extractives,62892.0
+420,Export,2018,Sub-Saharan Africa,Others,Non Extractives,188714434.0
+421,Export,2018,Thailand,Thailand,Extractives,2496622207.0
+422,Export,2018,Thailand,Thailand,Non Extractives,560267032.0
+423,Export,2018,United Kingdom,United Kingdom,Extractives,2890.0
+424,Export,2018,United Kingdom,United Kingdom,Non Extractives,422972733.0
+425,Export,2018,Western Asia,Others,Extractives,21321825.0
+426,Export,2018,Western Asia,Others,Non Extractives,141074965.0
+427,Export,2018,Western Europe,Others,Extractives,5433110.0
+428,Export,2018,Western Europe,Others,Non Extractives,752517711.0
+429,Import,2009,Australia and New Zealand,Others,Extractives,708683.0
+430,Import,2009,Australia and New Zealand,Others,Non Extractives,21458729.0
+431,Import,2009,Central Asia,Others,Non Extractives,39796.0
+432,Import,2009,China,China,Extractives,418956761.0
+433,Import,2009,China,China,Non Extractives,227165425.0
+434,Import,2009,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,11288890.0
+435,Import,2009,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,30893959.0
+436,Import,2009,Eastern Asia,Others,Extractives,254290.0
+437,Import,2009,Eastern Asia,Others,Non Extractives,935378.0
+438,Import,2009,Eastern Europe,Others,Extractives,302132.0
+439,Import,2009,Eastern Europe,Others,Non Extractives,13105014.0
+440,Import,2009,Germany,Germany,Extractives,137000.0
+441,Import,2009,Germany,Germany,Non Extractives,81177000.0
+442,Import,2009,India,India,Extractives,323814988.0
+443,Import,2009,India,India,Non Extractives,858009711.0
+444,Import,2009,Japan,Japan,Extractives,17617005.0
+445,Import,2009,Japan,Japan,Non Extractives,323639375.0
+446,Import,2009,Latin America and the Caribbean,Others,Extractives,226701.0
+447,Import,2009,Latin America and the Caribbean,Others,Non Extractives,17170654.0
+448,Import,2009,Malaysia,Malaysia,Extractives,20102588.0
+449,Import,2009,Malaysia,Malaysia,Non Extractives,124070532.0
+450,Import,2009,Melanesia,Others,Extractives,19991.0
+451,Import,2009,Melanesia,Others,Non Extractives,57510.0
+452,Import,2009,Northern Africa,Others,Extractives,892.0
+453,Import,2009,Northern Africa,Others,Non Extractives,498827.0
+454,Import,2009,Northern America,Others,Extractives,21257.0
+455,Import,2009,Northern America,Others,Non Extractives,122808.0
+456,Import,2009,Northern Europe,Others,Extractives,119317.0
+457,Import,2009,Northern Europe,Others,Non Extractives,4031865.0
+458,Import,2009,Polynesia,Others,Extractives,253.0
+459,Import,2009,Polynesia,Others,Non Extractives,373.0
+460,Import,2009,Rep. of Korea,Rep. of Korea,Extractives,4219415.0
+461,Import,2009,Rep. of Korea,Rep. of Korea,Non Extractives,74130713.0
+462,Import,2009,Singapore,Singapore,Extractives,9689133.0
+463,Import,2009,Singapore,Singapore,Non Extractives,108623442.0
+464,Import,2009,South-eastern Asia,Others,Extractives,49475679.0
+465,Import,2009,South-eastern Asia,Others,Non Extractives,53266811.0
+466,Import,2009,Southern Asia,Others,Extractives,38503893.0
+467,Import,2009,Southern Asia,Others,Non Extractives,71162318.0
+468,Import,2009,Southern Europe,Others,Extractives,312870.0
+469,Import,2009,Southern Europe,Others,Non Extractives,53422528.0
+470,Import,2009,Sub-Saharan Africa,Others,Extractives,849182.0
+471,Import,2009,Sub-Saharan Africa,Others,Non Extractives,105602982.0
+472,Import,2009,Thailand,Thailand,Extractives,2647384232.0
+473,Import,2009,Thailand,Thailand,Non Extractives,134189343.0
+474,Import,2009,United Kingdom,United Kingdom,Extractives,5305.0
+475,Import,2009,United Kingdom,United Kingdom,Non Extractives,55031391.0
+476,Import,2009,Western Asia,Others,Extractives,6363612.0
+477,Import,2009,Western Asia,Others,Non Extractives,74674086.0
+478,Import,2009,Western Europe,Others,Extractives,2050883.0
+479,Import,2009,Western Europe,Others,Non Extractives,31407413.0
+480,Import,2010,Australia and New Zealand,Others,Extractives,302209.0
+481,Import,2010,Australia and New Zealand,Others,Non Extractives,14728540.0
+482,Import,2010,Central Asia,Others,Non Extractives,244234.0
+483,Import,2010,China,China,Extractives,605758453.0
+484,Import,2010,China,China,Non Extractives,360328885.0
+485,Import,2010,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,11114862.0
+486,Import,2010,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,29971219.0
+487,Import,2010,Eastern Asia,Others,Extractives,593928.0
+488,Import,2010,Eastern Asia,Others,Non Extractives,1326354.0
+489,Import,2010,Eastern Europe,Others,Extractives,11442.0
+490,Import,2010,Eastern Europe,Others,Non Extractives,20820043.0
+491,Import,2010,Germany,Germany,Extractives,75517.0
+492,Import,2010,Germany,Germany,Non Extractives,78409224.0
+493,Import,2010,India,India,Extractives,430942586.0
+494,Import,2010,India,India,Non Extractives,691204589.0
+495,Import,2010,Japan,Japan,Extractives,15454647.0
+496,Import,2010,Japan,Japan,Non Extractives,370480120.0
+497,Import,2010,Latin America and the Caribbean,Others,Extractives,107597.0
+498,Import,2010,Latin America and the Caribbean,Others,Non Extractives,16228603.0
+499,Import,2010,Malaysia,Malaysia,Extractives,38892860.0
+500,Import,2010,Malaysia,Malaysia,Non Extractives,190335751.0
+501,Import,2010,Melanesia,Others,Extractives,2016.0
+502,Import,2010,Melanesia,Others,Non Extractives,63298.0
+503,Import,2010,Northern Africa,Others,Non Extractives,63267.0
+504,Import,2010,Northern America,Others,Extractives,3555.0
+505,Import,2010,Northern America,Others,Non Extractives,11813.0
+506,Import,2010,Northern Europe,Others,Extractives,106458.0
+507,Import,2010,Northern Europe,Others,Non Extractives,3237990.0
+508,Import,2010,Polynesia,Others,Non Extractives,614.0
+509,Import,2010,Rep. of Korea,Rep. of Korea,Extractives,3022223.0
+510,Import,2010,Rep. of Korea,Rep. of Korea,Non Extractives,156870142.0
+511,Import,2010,Singapore,Singapore,Extractives,15117552.0
+512,Import,2010,Singapore,Singapore,Non Extractives,67823205.0
+513,Import,2010,South-eastern Asia,Others,Extractives,59278127.0
+514,Import,2010,South-eastern Asia,Others,Non Extractives,89037371.0
+515,Import,2010,Southern Asia,Others,Extractives,40499319.0
+516,Import,2010,Southern Asia,Others,Non Extractives,106717376.0
+517,Import,2010,Southern Europe,Others,Extractives,712931.0
+518,Import,2010,Southern Europe,Others,Non Extractives,58013443.0
+519,Import,2010,Sub-Saharan Africa,Others,Extractives,704072.0
+520,Import,2010,Sub-Saharan Africa,Others,Non Extractives,74881563.0
+521,Import,2010,Thailand,Thailand,Extractives,2688187373.0
+522,Import,2010,Thailand,Thailand,Non Extractives,125678324.0
+523,Import,2010,United Kingdom,United Kingdom,Extractives,255151.0
+524,Import,2010,United Kingdom,United Kingdom,Non Extractives,54714331.0
+525,Import,2010,Western Asia,Others,Extractives,9079868.0
+526,Import,2010,Western Asia,Others,Non Extractives,107836942.0
+527,Import,2010,Western Europe,Others,Extractives,1280505.0
+528,Import,2010,Western Europe,Others,Non Extractives,27770752.0
+529,Import,2011,Australia and New Zealand,Others,Extractives,894843.0
+530,Import,2011,Australia and New Zealand,Others,Non Extractives,13867109.0
+531,Import,2011,Central Asia,Others,Non Extractives,995583.0
+532,Import,2011,China,China,Extractives,1357460241.0
+533,Import,2011,China,China,Non Extractives,322412603.0
+534,Import,2011,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,8152695.0
+535,Import,2011,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,39310163.0
+536,Import,2011,Eastern Asia,Others,Extractives,629614.0
+537,Import,2011,Eastern Asia,Others,Non Extractives,2076312.0
+538,Import,2011,Eastern Europe,Others,Extractives,9357.0
+539,Import,2011,Eastern Europe,Others,Non Extractives,35594280.0
+540,Import,2011,Germany,Germany,Extractives,5396.0
+541,Import,2011,Germany,Germany,Non Extractives,83920994.0
+542,Import,2011,India,India,Extractives,617779983.0
+543,Import,2011,India,India,Non Extractives,644264282.0
+544,Import,2011,Japan,Japan,Extractives,23854214.0
+545,Import,2011,Japan,Japan,Non Extractives,566159583.0
+546,Import,2011,Latin America and the Caribbean,Others,Extractives,80045.0
+547,Import,2011,Latin America and the Caribbean,Others,Non Extractives,18682406.0
+548,Import,2011,Malaysia,Malaysia,Extractives,30227588.0
+549,Import,2011,Malaysia,Malaysia,Non Extractives,203521569.0
+550,Import,2011,Melanesia,Others,Extractives,378.0
+551,Import,2011,Melanesia,Others,Non Extractives,35967.0
+552,Import,2011,Northern Africa,Others,Non Extractives,49359.0
+553,Import,2011,Northern America,Others,Extractives,9587.0
+554,Import,2011,Northern America,Others,Non Extractives,53726.0
+555,Import,2011,Northern Europe,Others,Extractives,49.0
+556,Import,2011,Northern Europe,Others,Non Extractives,3991820.0
+557,Import,2011,Polynesia,Others,Extractives,29.0
+558,Import,2011,Polynesia,Others,Non Extractives,677.0
+559,Import,2011,Rep. of Korea,Rep. of Korea,Extractives,2991429.0
+560,Import,2011,Rep. of Korea,Rep. of Korea,Non Extractives,295689349.0
+561,Import,2011,Singapore,Singapore,Extractives,17257565.0
+562,Import,2011,Singapore,Singapore,Non Extractives,68647519.0
+563,Import,2011,South-eastern Asia,Others,Extractives,46229380.0
+564,Import,2011,South-eastern Asia,Others,Non Extractives,130873740.0
+565,Import,2011,Southern Asia,Others,Extractives,74171817.0
+566,Import,2011,Southern Asia,Others,Non Extractives,151502552.0
+567,Import,2011,Southern Europe,Others,Extractives,735887.0
+568,Import,2011,Southern Europe,Others,Non Extractives,53922835.0
+569,Import,2011,Sub-Saharan Africa,Others,Extractives,415572.0
+570,Import,2011,Sub-Saharan Africa,Others,Non Extractives,124696754.0
+571,Import,2011,Thailand,Thailand,Extractives,3162449928.0
+572,Import,2011,Thailand,Thailand,Non Extractives,105867984.0
+573,Import,2011,United Kingdom,United Kingdom,Extractives,198028.0
+574,Import,2011,United Kingdom,United Kingdom,Non Extractives,69086862.0
+575,Import,2011,Western Asia,Others,Extractives,11393275.0
+576,Import,2011,Western Asia,Others,Non Extractives,95545549.0
+577,Import,2011,Western Europe,Others,Extractives,54624.0
+578,Import,2011,Western Europe,Others,Non Extractives,36100715.0
+579,Import,2012,Australia and New Zealand,Others,Extractives,858098.0
+580,Import,2012,Australia and New Zealand,Others,Non Extractives,15105146.0
+581,Import,2012,Central Asia,Others,Extractives,4200.0
+582,Import,2012,Central Asia,Others,Non Extractives,394333.0
+583,Import,2012,China,China,Extractives,908932841.0
+584,Import,2012,China,China,Non Extractives,389293101.0
+585,Import,2012,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,7047242.0
+586,Import,2012,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,39994351.0
+587,Import,2012,Eastern Asia,Others,Extractives,431631.0
+588,Import,2012,Eastern Asia,Others,Non Extractives,2153021.0
+589,Import,2012,Eastern Europe,Others,Extractives,2543.0
+590,Import,2012,Eastern Europe,Others,Non Extractives,48104067.0
+591,Import,2012,Germany,Germany,Extractives,2534084.0
+592,Import,2012,Germany,Germany,Non Extractives,53926950.0
+593,Import,2012,India,India,Extractives,706026135.0
+594,Import,2012,India,India,Non Extractives,640155948.0
+595,Import,2012,Japan,Japan,Extractives,16180891.0
+596,Import,2012,Japan,Japan,Non Extractives,655952267.0
+597,Import,2012,Latin America and the Caribbean,Others,Extractives,144559.0
+598,Import,2012,Latin America and the Caribbean,Others,Non Extractives,13916261.0
+599,Import,2012,Malaysia,Malaysia,Extractives,28493084.0
+600,Import,2012,Malaysia,Malaysia,Non Extractives,154918876.0
+601,Import,2012,Melanesia,Others,Extractives,32.0
+602,Import,2012,Melanesia,Others,Non Extractives,166280.0
+603,Import,2012,Micronesia,Others,Extractives,248.0
+604,Import,2012,Micronesia,Others,Non Extractives,6783.0
+605,Import,2012,Northern Africa,Others,Extractives,12453.0
+606,Import,2012,Northern Africa,Others,Non Extractives,217958.0
+607,Import,2012,Northern America,Others,Extractives,111162.0
+608,Import,2012,Northern America,Others,Non Extractives,1688554.0
+609,Import,2012,Northern Europe,Others,Extractives,386745.0
+610,Import,2012,Northern Europe,Others,Non Extractives,4170985.0
+611,Import,2012,Polynesia,Others,Extractives,21.0
+612,Import,2012,Rep. of Korea,Rep. of Korea,Extractives,3902907.0
+613,Import,2012,Rep. of Korea,Rep. of Korea,Non Extractives,347261120.0
+614,Import,2012,Singapore,Singapore,Extractives,16840696.0
+615,Import,2012,Singapore,Singapore,Non Extractives,62193822.0
+616,Import,2012,South-eastern Asia,Others,Extractives,67996321.0
+617,Import,2012,South-eastern Asia,Others,Non Extractives,135239465.0
+618,Import,2012,Southern Asia,Others,Extractives,66509754.0
+619,Import,2012,Southern Asia,Others,Non Extractives,71214626.0
+620,Import,2012,Southern Europe,Others,Extractives,4907641.0
+621,Import,2012,Southern Europe,Others,Non Extractives,47334584.0
+622,Import,2012,Sub-Saharan Africa,Others,Extractives,563710.0
+623,Import,2012,Sub-Saharan Africa,Others,Non Extractives,115681303.0
+624,Import,2012,Thailand,Thailand,Extractives,3545813006.0
+625,Import,2012,Thailand,Thailand,Non Extractives,128172394.0
+626,Import,2012,United Kingdom,United Kingdom,Extractives,506063.0
+627,Import,2012,United Kingdom,United Kingdom,Non Extractives,64181438.0
+628,Import,2012,Western Asia,Others,Extractives,5941059.0
+629,Import,2012,Western Asia,Others,Non Extractives,101704523.0
+630,Import,2012,Western Europe,Others,Extractives,15617903.0
+631,Import,2012,Western Europe,Others,Non Extractives,34884997.0
+632,Import,2013,Australia and New Zealand,Others,Extractives,1176219.0
+633,Import,2013,Australia and New Zealand,Others,Non Extractives,20380188.0
+634,Import,2013,Central Asia,Others,Extractives,211.0
+635,Import,2013,Central Asia,Others,Non Extractives,344971.0
+636,Import,2013,China,China,Extractives,2460252451.0
+637,Import,2013,China,China,Non Extractives,396614130.0
+638,Import,2013,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,4223836.0
+639,Import,2013,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,36770580.0
+640,Import,2013,Eastern Asia,Others,Non Extractives,28987.0
+641,Import,2013,Eastern Europe,Others,Extractives,1930674.0
+642,Import,2013,Eastern Europe,Others,Non Extractives,40851882.0
+643,Import,2013,Germany,Germany,Extractives,8784360.0
+644,Import,2013,Germany,Germany,Non Extractives,64476718.0
+645,Import,2013,India,India,Extractives,738114724.0
+646,Import,2013,India,India,Non Extractives,628122867.0
+647,Import,2013,Japan,Japan,Extractives,22890876.0
+648,Import,2013,Japan,Japan,Non Extractives,736404996.0
+649,Import,2013,Latin America and the Caribbean,Others,Extractives,136016.0
+650,Import,2013,Latin America and the Caribbean,Others,Non Extractives,18753594.0
+651,Import,2013,Malaysia,Malaysia,Extractives,29111539.0
+652,Import,2013,Malaysia,Malaysia,Non Extractives,169049892.0
+653,Import,2013,Melanesia,Others,Extractives,107.0
+654,Import,2013,Melanesia,Others,Non Extractives,24348.0
+655,Import,2013,Micronesia,Others,Non Extractives,13999.0
+656,Import,2013,Northern Africa,Others,Non Extractives,30023.0
+657,Import,2013,Northern America,Others,Extractives,4357383.0
+658,Import,2013,Northern America,Others,Non Extractives,35132209.0
+659,Import,2013,Northern Europe,Others,Extractives,2133108.0
+660,Import,2013,Northern Europe,Others,Non Extractives,6972544.0
+661,Import,2013,Polynesia,Others,Extractives,28.0
+662,Import,2013,Polynesia,Others,Non Extractives,477.0
+663,Import,2013,Rep. of Korea,Rep. of Korea,Extractives,5814445.0
+664,Import,2013,Rep. of Korea,Rep. of Korea,Non Extractives,481954833.0
+665,Import,2013,Singapore,Singapore,Extractives,96098277.0
+666,Import,2013,Singapore,Singapore,Non Extractives,83132490.0
+667,Import,2013,South-eastern Asia,Others,Extractives,104880681.0
+668,Import,2013,South-eastern Asia,Others,Non Extractives,117725240.0
+669,Import,2013,Southern Asia,Others,Extractives,62544909.0
+670,Import,2013,Southern Asia,Others,Non Extractives,41539962.0
+671,Import,2013,Southern Europe,Others,Extractives,16440810.0
+672,Import,2013,Southern Europe,Others,Non Extractives,56995764.0
+673,Import,2013,Sub-Saharan Africa,Others,Extractives,325430.0
+674,Import,2013,Sub-Saharan Africa,Others,Non Extractives,81538588.0
+675,Import,2013,Thailand,Thailand,Extractives,3869653810.0
+676,Import,2013,Thailand,Thailand,Non Extractives,163272116.0
+677,Import,2013,United Kingdom,United Kingdom,Extractives,969697.0
+678,Import,2013,United Kingdom,United Kingdom,Non Extractives,86860905.0
+679,Import,2013,Western Asia,Others,Extractives,8282762.0
+680,Import,2013,Western Asia,Others,Non Extractives,101739086.0
+681,Import,2013,Western Europe,Others,Extractives,42691747.0
+682,Import,2013,Western Europe,Others,Non Extractives,45318748.0
+683,Import,2014,Australia and New Zealand,Others,Extractives,1917729.0
+684,Import,2014,Australia and New Zealand,Others,Non Extractives,22249427.0
+685,Import,2014,Central Asia,Others,Non Extractives,320530.0
+686,Import,2014,China,China,Extractives,15236467095.0
+687,Import,2014,China,China,Non Extractives,364812356.0
+688,Import,2014,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,2883875.0
+689,Import,2014,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,60188096.0
+690,Import,2014,Eastern Asia,Others,Extractives,191198.0
+691,Import,2014,Eastern Asia,Others,Non Extractives,2311933.0
+692,Import,2014,Eastern Europe,Others,Extractives,760382.0
+693,Import,2014,Eastern Europe,Others,Non Extractives,58147615.0
+694,Import,2014,Germany,Germany,Extractives,8719942.0
+695,Import,2014,Germany,Germany,Non Extractives,125909725.0
+696,Import,2014,India,India,Extractives,566406870.0
+697,Import,2014,India,India,Non Extractives,826349285.0
+698,Import,2014,Japan,Japan,Extractives,31316091.0
+699,Import,2014,Japan,Japan,Non Extractives,829348833.0
+700,Import,2014,Latin America and the Caribbean,Others,Extractives,249561.0
+701,Import,2014,Latin America and the Caribbean,Others,Non Extractives,19117049.0
+702,Import,2014,Malaysia,Malaysia,Extractives,36030806.0
+703,Import,2014,Malaysia,Malaysia,Non Extractives,131162172.0
+704,Import,2014,Melanesia,Others,Non Extractives,57663.0
+705,Import,2014,Micronesia,Others,Extractives,16381.0
+706,Import,2014,Micronesia,Others,Non Extractives,216230.0
+707,Import,2014,Northern Africa,Others,Extractives,2580.0
+708,Import,2014,Northern Africa,Others,Non Extractives,90278.0
+709,Import,2014,Northern America,Others,Extractives,12472182.0
+710,Import,2014,Northern America,Others,Non Extractives,96226532.0
+711,Import,2014,Northern Europe,Others,Extractives,2211392.0
+712,Import,2014,Northern Europe,Others,Non Extractives,8751308.0
+713,Import,2014,Polynesia,Others,Non Extractives,4587.0
+714,Import,2014,Rep. of Korea,Rep. of Korea,Extractives,3932331.0
+715,Import,2014,Rep. of Korea,Rep. of Korea,Non Extractives,575785821.0
+716,Import,2014,Singapore,Singapore,Extractives,96961351.0
+717,Import,2014,Singapore,Singapore,Non Extractives,61819183.0
+718,Import,2014,South-eastern Asia,Others,Extractives,115117542.0
+719,Import,2014,South-eastern Asia,Others,Non Extractives,159582477.0
+720,Import,2014,Southern Asia,Others,Extractives,13449930.0
+721,Import,2014,Southern Asia,Others,Non Extractives,51169866.0
+722,Import,2014,Southern Europe,Others,Extractives,12654784.0
+723,Import,2014,Southern Europe,Others,Non Extractives,96898417.0
+724,Import,2014,Sub-Saharan Africa,Others,Extractives,518239.0
+725,Import,2014,Sub-Saharan Africa,Others,Non Extractives,54148570.0
+726,Import,2014,Thailand,Thailand,Extractives,3708587745.0
+727,Import,2014,Thailand,Thailand,Non Extractives,208135071.0
+728,Import,2014,United Kingdom,United Kingdom,Extractives,698306.0
+729,Import,2014,United Kingdom,United Kingdom,Non Extractives,125779099.0
+730,Import,2014,Western Asia,Others,Extractives,39584151.0
+731,Import,2014,Western Asia,Others,Non Extractives,136897951.0
+732,Import,2014,Western Europe,Others,Extractives,71536331.0
+733,Import,2014,Western Europe,Others,Non Extractives,124420193.0
+734,Import,2015,Australia and New Zealand,Others,Extractives,15853462.0
+735,Import,2015,Australia and New Zealand,Others,Non Extractives,21911720.0
+736,Import,2015,Central Asia,Others,Non Extractives,246204.0
+737,Import,2015,China,China,Extractives,4555848658.0
+738,Import,2015,China,China,Non Extractives,893446388.0
+739,Import,2015,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,2286997.0
+740,Import,2015,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,62027901.0
+741,Import,2015,Eastern Asia,Others,Non Extractives,275224.0
+742,Import,2015,Eastern Europe,Others,Extractives,803570.0
+743,Import,2015,Eastern Europe,Others,Non Extractives,69222568.0
+744,Import,2015,Germany,Germany,Extractives,10802880.0
+745,Import,2015,Germany,Germany,Non Extractives,210952831.0
+746,Import,2015,India,India,Extractives,121038190.0
+747,Import,2015,India,India,Non Extractives,895262874.0
+748,Import,2015,Japan,Japan,Extractives,17774459.0
+749,Import,2015,Japan,Japan,Non Extractives,846485345.0
+750,Import,2015,Latin America and the Caribbean,Others,Extractives,88557.0
+751,Import,2015,Latin America and the Caribbean,Others,Non Extractives,20668279.0
+752,Import,2015,Malaysia,Malaysia,Extractives,30357920.0
+753,Import,2015,Malaysia,Malaysia,Non Extractives,146065927.0
+754,Import,2015,Melanesia,Others,Non Extractives,106542.0
+755,Import,2015,Micronesia,Others,Non Extractives,61998.0
+756,Import,2015,Northern Africa,Others,Extractives,143293.0
+757,Import,2015,Northern Africa,Others,Non Extractives,395267.0
+758,Import,2015,Northern America,Others,Extractives,6468642.0
+759,Import,2015,Northern America,Others,Non Extractives,165164552.0
+760,Import,2015,Northern Europe,Others,Extractives,3520887.0
+761,Import,2015,Northern Europe,Others,Non Extractives,23756916.0
+762,Import,2015,Polynesia,Others,Non Extractives,3483.0
+763,Import,2015,Rep. of Korea,Rep. of Korea,Extractives,8061777.0
+764,Import,2015,Rep. of Korea,Rep. of Korea,Non Extractives,497617720.0
+765,Import,2015,Singapore,Singapore,Extractives,55316276.0
+766,Import,2015,Singapore,Singapore,Non Extractives,67970613.0
+767,Import,2015,South-eastern Asia,Others,Extractives,123949215.0
+768,Import,2015,South-eastern Asia,Others,Non Extractives,116805657.0
+769,Import,2015,Southern Asia,Others,Extractives,28317218.0
+770,Import,2015,Southern Asia,Others,Non Extractives,54444606.0
+771,Import,2015,Southern Europe,Others,Extractives,10841681.0
+772,Import,2015,Southern Europe,Others,Non Extractives,137208288.0
+773,Import,2015,Sub-Saharan Africa,Others,Extractives,325650.0
+774,Import,2015,Sub-Saharan Africa,Others,Non Extractives,19807010.0
+775,Import,2015,Thailand,Thailand,Extractives,3358849422.0
+776,Import,2015,Thailand,Thailand,Non Extractives,197783061.0
+777,Import,2015,United Kingdom,United Kingdom,Extractives,940051.0
+778,Import,2015,United Kingdom,United Kingdom,Non Extractives,156064262.0
+779,Import,2015,Western Asia,Others,Extractives,20299531.0
+780,Import,2015,Western Asia,Others,Non Extractives,146529645.0
+781,Import,2015,Western Europe,Others,Extractives,91217208.0
+782,Import,2015,Western Europe,Others,Non Extractives,190177976.0
+783,Import,2016,Australia and New Zealand,Others,Extractives,1773034.0
+784,Import,2016,Australia and New Zealand,Others,Non Extractives,25001169.0
+785,Import,2016,Central Asia,Others,Non Extractives,460610.0
+786,Import,2016,China,China,Extractives,2913691182.0
+787,Import,2016,China,China,Non Extractives,1184017501.0
+788,Import,2016,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,7160596.0
+789,Import,2016,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,69924230.0
+790,Import,2016,Eastern Asia,Others,Non Extractives,1867097.0
+791,Import,2016,Eastern Europe,Others,Extractives,612271.0
+792,Import,2016,Eastern Europe,Others,Non Extractives,96538480.0
+793,Import,2016,Germany,Germany,Extractives,18707707.0
+794,Import,2016,Germany,Germany,Non Extractives,340124805.0
+795,Import,2016,India,India,Extractives,163214783.0
+796,Import,2016,India,India,Non Extractives,921719491.0
+797,Import,2016,Japan,Japan,Extractives,24063055.0
+798,Import,2016,Japan,Japan,Non Extractives,910788612.0
+799,Import,2016,Latin America and the Caribbean,Others,Extractives,958640.0
+800,Import,2016,Latin America and the Caribbean,Others,Non Extractives,27700786.0
+801,Import,2016,Malaysia,Malaysia,Extractives,37054517.0
+802,Import,2016,Malaysia,Malaysia,Non Extractives,161575741.0
+803,Import,2016,Melanesia,Others,Non Extractives,368133.0
+804,Import,2016,Northern Africa,Others,Extractives,183.0
+805,Import,2016,Northern Africa,Others,Non Extractives,894864.0
+806,Import,2016,Northern America,Others,Extractives,25206479.0
+807,Import,2016,Northern America,Others,Non Extractives,228112720.0
+808,Import,2016,Northern Europe,Others,Extractives,6144342.0
+809,Import,2016,Northern Europe,Others,Non Extractives,74515529.0
+810,Import,2016,Rep. of Korea,Rep. of Korea,Extractives,20654860.0
+811,Import,2016,Rep. of Korea,Rep. of Korea,Non Extractives,438011531.0
+812,Import,2016,Singapore,Singapore,Extractives,51776157.0
+813,Import,2016,Singapore,Singapore,Non Extractives,74537962.0
+814,Import,2016,South-eastern Asia,Others,Extractives,93653540.0
+815,Import,2016,South-eastern Asia,Others,Non Extractives,132275935.0
+816,Import,2016,Southern Asia,Others,Extractives,8491521.0
+817,Import,2016,Southern Asia,Others,Non Extractives,71056194.0
+818,Import,2016,Southern Europe,Others,Extractives,29061225.0
+819,Import,2016,Southern Europe,Others,Non Extractives,194349391.0
+820,Import,2016,Sub-Saharan Africa,Others,Extractives,197160.0
+821,Import,2016,Sub-Saharan Africa,Others,Non Extractives,25843719.0
+822,Import,2016,Thailand,Thailand,Extractives,2058097151.0
+823,Import,2016,Thailand,Thailand,Non Extractives,310881286.0
+824,Import,2016,United Kingdom,United Kingdom,Extractives,2415474.0
+825,Import,2016,United Kingdom,United Kingdom,Non Extractives,204005410.0
+826,Import,2016,Western Asia,Others,Extractives,14154485.0
+827,Import,2016,Western Asia,Others,Non Extractives,147997091.0
+828,Import,2016,Western Europe,Others,Extractives,58654321.0
+829,Import,2016,Western Europe,Others,Non Extractives,349231506.0
+830,Import,2017,Australia and New Zealand,Others,Extractives,2745385.0
+831,Import,2017,Australia and New Zealand,Others,Non Extractives,31212435.0
+832,Import,2017,Central Asia,Others,Extractives,2044.0
+833,Import,2017,Central Asia,Others,Non Extractives,1380318.0
+834,Import,2017,China,China,Extractives,3105819983.0
+835,Import,2017,China,China,Non Extractives,1420528015.0
+836,Import,2017,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,10501367.0
+837,Import,2017,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,79365120.0
+838,Import,2017,Eastern Asia,Others,Non Extractives,559615.0
+839,Import,2017,Eastern Europe,Others,Extractives,2685431.0
+840,Import,2017,Eastern Europe,Others,Non Extractives,205035554.0
+841,Import,2017,Germany,Germany,Extractives,23378492.0
+842,Import,2017,Germany,Germany,Non Extractives,616365923.0
+843,Import,2017,India,India,Extractives,177939560.0
+844,Import,2017,India,India,Non Extractives,560099705.0
+845,Import,2017,Japan,Japan,Extractives,22458126.0
+846,Import,2017,Japan,Japan,Non Extractives,1043711818.0
+847,Import,2017,Latin America and the Caribbean,Others,Extractives,446330.0
+848,Import,2017,Latin America and the Caribbean,Others,Non Extractives,40654162.0
+849,Import,2017,Malaysia,Malaysia,Extractives,59188008.0
+850,Import,2017,Malaysia,Malaysia,Non Extractives,165988300.0
+851,Import,2017,Melanesia,Others,Non Extractives,523443.0
+852,Import,2017,Micronesia,Others,Non Extractives,190.0
+853,Import,2017,Northern Africa,Others,Non Extractives,1434444.0
+854,Import,2017,Northern America,Others,Extractives,710838.0
+855,Import,2017,Northern America,Others,Non Extractives,93066128.0
+856,Import,2017,Northern Europe,Others,Extractives,1749712.0
+857,Import,2017,Northern Europe,Others,Non Extractives,155980880.0
+858,Import,2017,Rep. of Korea,Rep. of Korea,Extractives,13019098.0
+859,Import,2017,Rep. of Korea,Rep. of Korea,Non Extractives,450316693.0
+860,Import,2017,Singapore,Singapore,Extractives,41465556.0
+861,Import,2017,Singapore,Singapore,Non Extractives,69629976.0
+862,Import,2017,South-eastern Asia,Others,Extractives,113029643.0
+863,Import,2017,South-eastern Asia,Others,Non Extractives,183819889.0
+864,Import,2017,Southern Asia,Others,Extractives,9769575.0
+865,Import,2017,Southern Asia,Others,Non Extractives,109973932.0
+866,Import,2017,Southern Europe,Others,Extractives,24876364.0
+867,Import,2017,Southern Europe,Others,Non Extractives,346865373.0
+868,Import,2017,Sub-Saharan Africa,Others,Extractives,3820615.0
+869,Import,2017,Sub-Saharan Africa,Others,Non Extractives,119153823.0
+870,Import,2017,United Kingdom,United Kingdom,Extractives,6221359.0
+871,Import,2017,United Kingdom,United Kingdom,Non Extractives,290528499.0
+872,Import,2017,Western Asia,Others,Extractives,14639781.0
+873,Import,2017,Western Asia,Others,Non Extractives,162449986.0
+874,Import,2017,Western Europe,Others,Extractives,94722313.0
+875,Import,2017,Western Europe,Others,Non Extractives,492644686.0
+876,Import,2018,Australia and New Zealand,Others,Extractives,768679.0
+877,Import,2018,Australia and New Zealand,Others,Non Extractives,3535292.0
+878,Import,2018,Central Asia,Others,Non Extractives,2545261.0
+879,Import,2018,"China, Hong Kong SAR","China, Hong Kong SAR",Extractives,3453589.0
+880,Import,2018,"China, Hong Kong SAR","China, Hong Kong SAR",Non Extractives,97638279.0
+881,Import,2018,Eastern Asia,Others,Non Extractives,571882.0
+882,Import,2018,Eastern Europe,Others,Extractives,2936143.0
+883,Import,2018,Eastern Europe,Others,Non Extractives,360481921.0
+884,Import,2018,Germany,Germany,Extractives,56602151.0
+885,Import,2018,Germany,Germany,Non Extractives,977476008.0
+886,Import,2018,India,India,Extractives,153455433.0
+887,Import,2018,India,India,Non Extractives,355525481.0
+888,Import,2018,Japan,Japan,Extractives,24964337.0
+889,Import,2018,Japan,Japan,Non Extractives,1255016573.0
+890,Import,2018,Latin America and the Caribbean,Others,Extractives,439669.0
+891,Import,2018,Latin America and the Caribbean,Others,Non Extractives,65787945.0
+892,Import,2018,Malaysia,Malaysia,Extractives,134662162.0
+893,Import,2018,Malaysia,Malaysia,Non Extractives,170603231.0
+894,Import,2018,Melanesia,Others,Non Extractives,26414.0
+895,Import,2018,Northern America,Others,Extractives,92983830.0
+896,Import,2018,Northern America,Others,Non Extractives,519679900.0
+897,Import,2018,Northern Europe,Others,Extractives,2961031.0
+898,Import,2018,Northern Europe,Others,Non Extractives,292617106.0
+899,Import,2018,South-eastern Asia,Others,Extractives,68844751.0
+900,Import,2018,South-eastern Asia,Others,Non Extractives,112071241.0
+901,Import,2018,Southern Asia,Others,Extractives,21927.0
+902,Import,2018,Southern Asia,Others,Non Extractives,1931001.0
+903,Import,2018,Southern Europe,Others,Extractives,92872518.0
+904,Import,2018,Southern Europe,Others,Non Extractives,232005635.0
+905,Import,2018,Sub-Saharan Africa,Others,Extractives,263745.0
+906,Import,2018,Sub-Saharan Africa,Others,Non Extractives,2547160.0
+907,Import,2018,Thailand,Thailand,Extractives,2603527911.0
+908,Import,2018,Thailand,Thailand,Non Extractives,408602610.0
+909,Import,2018,United Kingdom,United Kingdom,Extractives,1229423.0
+910,Import,2018,United Kingdom,United Kingdom,Non Extractives,388356609.0
+911,Import,2018,Western Asia,Others,Extractives,8185808.0
+912,Import,2018,Western Asia,Others,Non Extractives,101403952.0
+913,Import,2018,Western Europe,Others,Extractives,147996995.0
+914,Import,2018,Western Europe,Others,Non Extractives,699153322.0
