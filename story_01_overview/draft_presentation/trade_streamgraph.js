@@ -134,6 +134,7 @@ var graph = d3.csv(csvpath, function(originalData) {
 //       .attr("transform", "translate(" + width + ", 0)")
 //       .call(yAxis.orient("right"));
 
+  var pro = null;
   getTooltip = function(d,year,pro) {
     if (flow === "Export") 
       return  "<p>Exports from Myanmar <br>to <span class='tooltiphighlight'>" 
@@ -150,6 +151,8 @@ var graph = d3.csv(csvpath, function(originalData) {
   svg.append("g")
 			.attr("class", "y axis")
       .call(yAxis.orient("left"));
+  
+  
 
   svg.selectAll(".layer")
     .attr("opacity", 1)
@@ -180,14 +183,14 @@ var graph = d3.csv(csvpath, function(originalData) {
       }
 
 			mousedate = datearray.indexOf(invertedx);
-			var pro = d.values[mousedate] ? d.values[mousedate].value : 0;
+			pro = d.values[mousedate] ? d.values[mousedate].value : 0;
 			year = d.values[mousedate] ? d.values[mousedate].date.getYear() + 1900: 0;
-			;
+			
 
       d3.select(this)
       .classed("hover", true)
       .attr("stroke", strokecolor)
-      .attr("stroke-width", "0.5px"), 
+      .attr("stroke-width", "0.5px")
 			// tooltip.html(  "<p>" + d.key + "<br>" + year + "<br>USD " + valueFormat(pro) + "</p>" )
 			tooltip.html( getTooltip(d,year,pro) )
 				.style("visibility", "visible")
@@ -195,6 +198,7 @@ var graph = d3.csv(csvpath, function(originalData) {
       
     })
     .on("mouseout", function(d, i) {
+      // console.log("mouseout")
      svg.selectAll(".layer")
       .transition()
       .duration(250)
@@ -202,8 +206,10 @@ var graph = d3.csv(csvpath, function(originalData) {
       d3.select(this)
       .classed("hover", false)
 			// .attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + year + "<br>" + pro + "</p>" )
-			.attr("stroke-width", "0px"), tooltip.html( getTooltip(d,year,pro) )
-				.style("visibility", "hidden");
+      .attr("stroke-width", "0px") 
+      tooltip.html( getTooltip(d,year,pro) )
+        .style("visibility", "hidden");
+        // .style("left", "9px");
 	})
 	var bodyRect = document.body.getBoundingClientRect(),
 			verticalBarElemRect = d3.select(divToAttach).node().getBoundingClientRect(),
@@ -220,7 +226,7 @@ var graph = d3.csv(csvpath, function(originalData) {
         .style("height", "380px")
         .style("top", verticalBarOffset+"px")
         .style("bottom", "30px")
-        .style("left", "0px")
+        .style("left", "-100px")
         .style("background", "#fff");
 
   d3.select(divToAttach)
@@ -231,6 +237,8 @@ var graph = d3.csv(csvpath, function(originalData) {
       .on("mouseover", function(){  
          mousex = d3.mouse(this);
          mousex = mousex[0] + 5;
-         vertical.style("left", mousex + "px")});
+         vertical.style("left", mousex + "px")})
+      .on("mouseout", function(){  
+        vertical.style("left", "-100px" )})
 });
 }
