@@ -23,7 +23,7 @@
   p {
     font: 11px 'Source Sans Pro'; 
     color: #222222;
-    background-color:rgba(255,255,255,0.7);
+    background-color:rgba(255,255,255,0.8);
     padding: 10px;
   }
 
@@ -59,4 +59,10 @@
   .tooltip {
     font: 11px 'Source Sans Pro';
      
+  }
+
+  .tooltiphighlight {
+    color: #ec3f3f;
+    font-weight: bold;
+    display: inline;
   }

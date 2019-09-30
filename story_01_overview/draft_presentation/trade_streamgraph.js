@@ -134,6 +134,19 @@ var graph = d3.csv(csvpath, function(originalData) {
 //       .attr("transform", "translate(" + width + ", 0)")
 //       .call(yAxis.orient("right"));
 
+  getTooltip = function(d,year,pro) {
+    if (flow === "Export") 
+      return  "<p>Exports from Myanmar <br>to <span class='tooltiphighlight'>" 
+        + d.key + "</span><br>in <span class='tooltiphighlight'>" 
+        + year + "</span>:<br><span class='tooltiphighlight'>USD " 
+        + valueFormat(pro) + "</span></p>"
+    else 
+      return  "<p>Imports to <span class='tooltiphighlight'>" 
+        + d.key + "</span><br> from Myanmar<br>in <span class='tooltiphighlight'>" 
+        + year + "</span>:<br><span class='tooltiphighlight'>USD " 
+        + valueFormat(pro) + "</span></p>";
+  }
+
   svg.append("g")
 			.attr("class", "y axis")
       .call(yAxis.orient("left"));
@@ -175,7 +188,8 @@ var graph = d3.csv(csvpath, function(originalData) {
       .classed("hover", true)
       .attr("stroke", strokecolor)
       .attr("stroke-width", "0.5px"), 
-			tooltip.html(  "<p>" + d.key + "<br>" + year + "<br>USD " + valueFormat(pro) + "</p>" )
+			// tooltip.html(  "<p>" + d.key + "<br>" + year + "<br>USD " + valueFormat(pro) + "</p>" )
+			tooltip.html( getTooltip(d,year,pro) )
 				.style("visibility", "visible")
 				.style("top",tooltipOffset+"px");
       
@@ -187,7 +201,8 @@ var graph = d3.csv(csvpath, function(originalData) {
       .attr("opacity", "1");
       d3.select(this)
       .classed("hover", false)
-			.attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + year + "<br>" + pro + "</p>" )
+			// .attr("stroke-width", "0px"), tooltip.html( "<p>" + d.key + "<br>" + year + "<br>" + pro + "</p>" )
+			.attr("stroke-width", "0px"), tooltip.html( getTooltip(d,year,pro) )
 				.style("visibility", "hidden");
 	})
 	var bodyRect = document.body.getBoundingClientRect(),
