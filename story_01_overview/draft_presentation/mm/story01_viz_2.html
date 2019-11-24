@@ -1,0 +1,49 @@
+<HTML>
+
+<head>
+	<title>Frontier Pulitzer Project Story 1 Viz</title>
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="story01_viz.css">
+
+</head>
+
+<body>
+	<script src="https://d3js.org/d3.v2.js"></script>
+	<script src="trade_streamgraph.js"></script>
+	
+	<!-- <h1>Map of Dams</h1>
+	<div style="width:800px">
+			<iframe title="Current and Planned Hydropower Projects in Myanmar" aria-label="Myanmar states Symbol map" id="datawrapper-chart-dlHmx" src="//datawrapper.dwcdn.net/dlHmx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+	</div>
+	</div> -->
+	<!-- <h1>Trade</h1> -->
+	<!-- <div style="width:400px"> -->
+	<div>
+		<!-- <h3>Myanmar reports a third of its products going straight to China</h3>
+		<h4>Much of China’s reported export growth is directly due to Chinese investment</h4>
+		<div class="streamgraphexport"></div> -->
+		<h3>၂၀၁၄ ခုနှစ်တွင် မြန်မာနိုင်ငံမှ ကျောက်စိမ်းအမြောက်အမြား တင်ပို့ခဲ့ကြောင်း တရုတ်နိုင်ငံက သတင်းထုတ်ပြန်ထားသည်</h3>
+		<h4>ကျောက်စိမ်းရောင်းဝယ်ရေးကို စစ်တပ်က ထိန်းချုပ်ထားသည့် မြန်မာနိုင်ငံတွင် ကျောက်စိမ်းတင်ပို့ရောင်းချမှုနှင့်ပတ်သက်ပြီး မည်သည့်အခါမှ သတင်းထုတ်ပြန်ခြင်း မရှိချေ</h4>
+		<div class="streamgraphimport"></div>
+		<p class="source">Source: <a href="https://comtrade.un.org/">UN Comtrade</a></p>
+	</div>
+	<!-- <h1>Presence of EAOs</h1>
+	<div style="width:300px">
+		<div class="flourish-embed" data-src="visualisation/493354"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+	</div>
+	<h1>Investment</h1>
+	<div style="width:800px">
+		<div class="flourish-embed" data-src="visualisation/492668"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+	</div>
+	<h1>Debt</h1>
+	<div style="width:800px">
+		<div class="flourish-embed" data-src="visualisation/492615"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+	</div>
+	</div> -->
+	<script>
+	// streamgraph("../../data/trade/comtrade/comtrade_nest_country_year.csv", "orange","Export",".streamgraphexport");
+	streamgraph("./comtrade_nest_country_year.csv", "orange","Import",".streamgraphimport");
+
+	</script>
+</body>
+</HTML>
