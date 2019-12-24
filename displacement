@@ -1,0 +1,127 @@
+install.packages("devtools")
+install.packages("rlang")
+install.packages("purrr")
+devtools::install_github("andrewbtran/muckrakr")
+
+library(rio)
+library(tidyr)
+library(dplyr)
+library(DT)
+library(sf)
+library(readr)
+library(ggplot2)
+library(readxl)
+library(stringr)
+library(lubridate)
+library(data.table)
+library(purrr)
+library(plyr)
+library(muckrakr)
+
+#import data by month
+x <- read_excel("raw_data/displacement/2019/Report_Shelter_NFI_CCCM_Cluster_Analysis_Report_Kachin.NShan_Jan2019.xlsx", sheet=1, skip=3)
+
+x <- january
+#remove spaces in headers
+
+colnames(x)
+
+colnames(x) <- make.names(colnames(x))
+
+View(x)
+
+
+#extract the month and year from file name 
+
+DummyName <- "Report_Shelter_NFI_CCCM_Cluster_Analysis_Report_Kachin.NShan_Jan2019.xlsx"
+YR <- str_extract(DummyName, "\\d{4}")
+
+
+M <- str_sub(DummyName, -12, -10)
+
+
+#add month and year columns
+
+x <- mutate(x, Month = M, Year = YR)
+
+#export as csv
+
+write.csv(x, "raw_data/displacement/csvs\\january.csv", row.names = FALSE)
+
+##same thing for other months
+
+
+x <- read_excel("raw_data/displacement/2019/Report_Shelter_NFI_CCCM_Cluster_Analysis_Report_Kachin.NShan_Oct2019.xlsx", sheet=1, skip=3)
+
+x <- october
+#remove spaces in headers
+
+colnames(x)
+
+colnames(x) <- make.names(colnames(x))
+
+View(x)
+
+
+#extract the month and year from file name 
+
+DummyName <- "Report_Shelter_NFI_CCCM_Cluster_Analysis_Report_Kachin.NShan_Oct2019.xlsx"
+YR <- str_extract(DummyName, "\\d{4}")
+
+
+M <- str_sub(DummyName, -12, -10)
+
+
+#add month and year columns
+
+x <- mutate(x, Month = M, Year = YR)
+
+#export as csv
+
+write.csv(x, "raw_data/displacement/csvs\\october.csv", row.names = FALSE)
+
+
+
+#bulk join cleaned 2019 csvs
+
+combined_data <- bulk_csv(folder = "csvs", export="2019displacement.csv") 
+
+
+#Import all of 2019
+
+#see what files are in the folder
+dir("raw_data/displacement/2019/", full.names = TRUE) %>% 
+  map_df(read_xlsx,
+         sheet=1, skip=3)
+
+#read file path
+all_paths <-
+  list.files("raw_data/displacement/2019/",
+             pattern = "*.xlsx",
+             full.names = TRUE)
+
+# read file content
+all_content <-
+  all_paths %>%
+  lapply(read_excel, 
+        sheet=1, skip=3)
+         
+# read file name
+all_filenames <- all_paths %>%
+basename() %>%
+           as.list()
+
+# combine file content list and file name list
+all_lists <- mapply(c, all_content, all_filenames, SIMPLIFY = FALSE)
+
+
+# unlist all lists and change column name doesn't work yet
+all_results <- rbindlist(all_lists, fill = T)
+
+#trying to convert list to dataframe
+all_results <- ldply(all_lists, fill=T)
+
+
+
+# change column name
+names(all_result)[3] <- "File.Path"
